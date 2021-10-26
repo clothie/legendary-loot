@@ -1,4 +1,4 @@
-#	timestamp	1634695354
+#	timestamp	1635287087
 #	version	v1.0
 #	addon	v1.6.4-tbc
 #	interface	20502
@@ -13,515 +13,41 @@
 #	outsiders	0
 
 #	roster	name,ep,gp,class
-Abluepegasus-Windseeker	2021	1207	WARRIOR
-Maslun-Windseeker	2021	889	SHAMAN
-Kilola-Windseeker	1810	1034	MAGE
-Gordantell-Windseeker	1814	482	HUNTER
-Tinnôr-Windseeker	678	609	WARLOCK
-Buddlite-Windseeker	2021	1389	PRIEST
-Sahna-Windseeker	2021	758	MAGE
-Dotkilla-Windseeker	2021	431	WARLOCK
-Majila-Windseeker	1982	792	PALADIN
-Kabbin-Windseeker	190	579	WARRIOR
-Uddermadnèss-Windseeker	2019	796	HUNTER
-Deadliskye-Windseeker	1822	1146	WARLOCK
-Decandt-Windseeker	1842	1262	DRUID
-Candel-Windseeker	121	714	PRIEST
-Blitzcore-Windseeker	1985	998	SHAMAN
-Magblaster-Windseeker	1146	731	MAGE
-Triisrawra-Windseeker	2021	1684	DRUID
-Silentscöut-Windseeker	765	0	SHAMAN
-Cuttah-Windseeker	2021	633	ROGUE
-Roand-Windseeker	1819	2426	WARRIOR
+Abluepegasus-Windseeker	2271	1582	WARRIOR
+Maslun-Windseeker	2271	889	SHAMAN
+Kilola-Windseeker	2060	1034	MAGE
+Gordantell-Windseeker	2064	482	HUNTER
 Droodhots-Windseeker	399	0	DRUID
-Bêlch-Windseeker	1714	1253	PRIEST
-Bubblemeup-Windseeker	2009	1301	PALADIN
-Bashuk-Windseeker	1860	848	HUNTER
-Greyghostt-Windseeker	1589	762	HUNTER
-Mordú-Windseeker	497	0	PRIEST
-Andrrick-Windseeker	1877	1079	PALADIN
-Ktulú-Windseeker	1874	188	SHAMAN
+Swifthealz-Windseeker	225	183	DRUID
+Buddlite-Windseeker	2271	1389	PRIEST
+Sahna-Windseeker	2271	1045	MAGE
+Dotkilla-Windseeker	2271	431	WARLOCK
+Majila-Windseeker	2232	792	PALADIN
+Kabbin-Windseeker	190	579	WARRIOR
+Uddermadnèss-Windseeker	2269	796	HUNTER
+Deadliskye-Windseeker	2072	1146	WARLOCK
+Decandt-Windseeker	2092	1406	DRUID
+Candel-Windseeker	121	714	PRIEST
+Magblaster-Windseeker	1196	731	MAGE
+Triisrawra-Windseeker	2271	1684	DRUID
+Silentscöut-Windseeker	765	0	SHAMAN
+Cuttah-Windseeker	2271	633	ROGUE
+Roand-Windseeker	1994	2570	WARRIOR
+Tinnôr-Windseeker	678	609	WARLOCK
+Bêlch-Windseeker	1939	1253	PRIEST
+Bubblemeup-Windseeker	2184	1445	PALADIN
+Bashuk-Windseeker	2110	848	HUNTER
+Greyghostt-Windseeker	1839	762	HUNTER
+Andrrick-Windseeker	2127	1462	PALADIN
+Ktulú-Windseeker	2124	760	SHAMAN
 Ozymandius-Windseeker	576	50	SHAMAN
-Voodoosniper-Windseeker	1092	872	HUNTER
-Rakkus-Windseeker	1545	958	DRUID
-Clicki-Windseeker	1712	0	SHAMAN
-Nosferata-Windseeker	1545	704	HUNTER
+Voodoosniper-Windseeker	1342	872	HUNTER
+Rakkus-Windseeker	1795	958	DRUID
+Clicki-Windseeker	1962	375	SHAMAN
+Blitzcore-Windseeker	2235	1123	SHAMAN
+Nosferata-Windseeker	1795	1062	HUNTER
 
 #	log	timestamp,type,name,reason,value
-1632263013	EP	Abluepegasus-Windseeker	Decay 8%	-58
-1632263013	GP	Abluepegasus-Windseeker	Decay 8%	-26
-1632263013	EP	Maslun-Windseeker	Decay 8%	-58
-1632263013	GP	Maslun-Windseeker	Decay 8%	-16
-1632263013	EP	Kilola-Windseeker	Decay 8%	-54
-1632263013	GP	Kilola-Windseeker	Decay 8%	-1
-1632263013	EP	Angertherapy-Windseeker	Decay 8%	-8
-1632263013	GP	Angertherapy-Windseeker	Decay 8%	-14
-1632263013	EP	Gordantell-Windseeker	Decay 8%	-52
-1632263013	GP	Gordantell-Windseeker	Decay 8%	-4
-1632263013	EP	Droodhots-Windseeker	Decay 8%	-16
-1632263013	EP	Buddlite-Windseeker	Decay 8%	-58
-1632263013	GP	Buddlite-Windseeker	Decay 8%	-20
-1632263013	EP	Blitzcore-Windseeker	Decay 8%	-54
-1632263013	GP	Blitzcore-Windseeker	Decay 8%	-25
-1632263013	EP	Sahna-Windseeker	Decay 8%	-58
-1632263013	EP	Dotkilla-Windseeker	Decay 8%	-58
-1632263013	GP	Dotkilla-Windseeker	Decay 8%	-26
-1632263013	EP	Majila-Windseeker	Decay 8%	-58
-1632263013	GP	Majila-Windseeker	Decay 8%	-9
-1632263013	EP	Kbjbbjkfbglb-Windseeker	Decay 8%	-1
-1632263013	EP	Uddermadnèss-Windseeker	Decay 8%	-58
-1632263013	GP	Uddermadnèss-Windseeker	Decay 8%	-11
-1632263013	EP	Messmart-Windseeker	Decay 8%	-3
-1632263013	EP	Deadliskye-Windseeker	Decay 8%	-54
-1632263013	GP	Deadliskye-Windseeker	Decay 8%	-17
-1632263013	EP	Decandt-Windseeker	Decay 8%	-53
-1632263013	GP	Decandt-Windseeker	Decay 8%	-19
-1632263013	EP	Andrrick-Windseeker	Decay 8%	-58
-1632263013	GP	Andrrick-Windseeker	Decay 8%	-22
-1632263013	EP	Triisrawra-Windseeker	Decay 8%	-58
-1632263013	GP	Triisrawra-Windseeker	Decay 8%	-17
-1632263013	EP	Magblaster-Windseeker	Decay 8%	-4
-1632263013	EP	Cuttah-Windseeker	Decay 8%	-58
-1632263013	GP	Cuttah-Windseeker	Decay 8%	-10
-1632263013	EP	Silentscöut-Windseeker	Decay 8%	-39
-1632263013	GP	Silentscöut-Windseeker	Decay 8%	-11
-1632263013	EP	Roand-Windseeker	Decay 8%	-57
-1632263013	GP	Roand-Windseeker	Decay 8%	-35
-1632263013	EP	Ozymandius-Windseeker	Decay 8%	-47
-1632263013	GP	Ozymandius-Windseeker	Decay 8%	-19
-1632263013	EP	Bashuk-Windseeker	Decay 8%	-58
-1632263013	GP	Bashuk-Windseeker	Decay 8%	-23
-1632263013	EP	Greyghostt-Windseeker	Decay 8%	-55
-1632263013	GP	Greyghostt-Windseeker	Decay 8%	-10
-1632263013	EP	Sherlogohms-Windseeker	Decay 8%	-12
-1632263013	EP	Ktulú-Windseeker	Decay 8%	-56
-1632263013	EP	Bubblemeup-Windseeker	Decay 8%	-57
-1632263013	GP	Bubblemeup-Windseeker	Decay 8%	-26
-1632263013	EP	Bêlch-Windseeker	Decay 8%	-52
-1632263013	GP	Bêlch-Windseeker	Decay 8%	-19
-1632263013	EP	Tinnôr-Windseeker	Decay 8%	-26
-1632263013	EP	Voodoosniper-Windseeker	Decay 8%	-10
-1632263013	EP	Clicki-Windseeker	Decay 8%	-31
-1632263013	GP	Clicki-Windseeker	Decay 8%	-11
-1632265154	EP	Sahna-Windseeker	Gruul's Lair	25
-1632265154	EP	Majila-Windseeker	Gruul's Lair	25
-1632265154	EP	Ktulú-Windseeker	Gruul's Lair	25
-1632265154	EP	Kilola-Windseeker	Gruul's Lair	25
-1632265154	EP	Cuttah-Windseeker	Gruul's Lair	25
-1632265154	EP	Gordantell-Windseeker	Gruul's Lair	25
-1632265154	EP	Uddermadnèss-Windseeker	Gruul's Lair	25
-1632265154	EP	Maslun-Windseeker	Gruul's Lair	25
-1632265154	EP	Triisrawra-Windseeker	Gruul's Lair	25
-1632265154	EP	Deadliskye-Windseeker	Gruul's Lair	25
-1632265154	EP	Buddlite-Windseeker	Gruul's Lair	25
-1632265154	EP	Clicki-Windseeker	Gruul's Lair	25
-1632265154	EP	Decandt-Windseeker	Gruul's Lair	25
-1632265154	EP	Bêlch-Windseeker	Gruul's Lair	25
-1632265154	EP	Andrrick-Windseeker	Gruul's Lair	25
-1632265154	EP	Bashuk-Windseeker	Gruul's Lair	25
-1632265154	EP	Ozymandius-Windseeker	Gruul's Lair	25
-1632265154	EP	Dotkilla-Windseeker	Gruul's Lair	25
-1632265154	EP	Abluepegasus-Windseeker	Gruul's Lair	25
-1632265154	EP	Bubblemeup-Windseeker	Gruul's Lair	25
-1632265154	EP	Blitzcore-Windseeker	Gruul's Lair	25
-1632265154	EP	Droodhots-Windseeker	Gruul's Lair	25
-1632265154	EP	Roand-Windseeker	Gruul's Lair	25
-1632265154	EP	Voodoosniper-Windseeker	Gruul's Lair	25
-1632265154	EP	Magblaster-Windseeker	Gruul's Lair	25
-1632265154	EP	Messmart-Windseeker	Gruul's Lair	25
-1632265154	EP	Rakkus-Windseeker	Gruul's Lair	25
-1632265154	EP	Nosferata-Windseeker	Gruul's Lair	25
-1632266956	EP	Sahna-Windseeker	Gruul's Lair	25
-1632266956	EP	Majila-Windseeker	Gruul's Lair	25
-1632266956	EP	Ktulú-Windseeker	Gruul's Lair	25
-1632266956	EP	Kilola-Windseeker	Gruul's Lair	25
-1632266956	EP	Cuttah-Windseeker	Gruul's Lair	25
-1632266956	EP	Gordantell-Windseeker	Gruul's Lair	25
-1632266956	EP	Uddermadnèss-Windseeker	Gruul's Lair	25
-1632266956	EP	Maslun-Windseeker	Gruul's Lair	25
-1632266956	EP	Triisrawra-Windseeker	Gruul's Lair	25
-1632266956	EP	Deadliskye-Windseeker	Gruul's Lair	25
-1632266956	EP	Clicki-Windseeker	Gruul's Lair	25
-1632266956	EP	Buddlite-Windseeker	Gruul's Lair	25
-1632266956	EP	Decandt-Windseeker	Gruul's Lair	25
-1632266956	EP	Bêlch-Windseeker	Gruul's Lair	25
-1632266956	EP	Andrrick-Windseeker	Gruul's Lair	25
-1632266956	EP	Bashuk-Windseeker	Gruul's Lair	25
-1632266956	EP	Ozymandius-Windseeker	Gruul's Lair	25
-1632266956	EP	Dotkilla-Windseeker	Gruul's Lair	25
-1632266956	EP	Abluepegasus-Windseeker	Gruul's Lair	25
-1632266956	EP	Bubblemeup-Windseeker	Gruul's Lair	25
-1632266956	EP	Blitzcore-Windseeker	Gruul's Lair	25
-1632266956	EP	Droodhots-Windseeker	Gruul's Lair	25
-1632266956	EP	Roand-Windseeker	Gruul's Lair	25
-1632266956	EP	Voodoosniper-Windseeker	Gruul's Lair	25
-1632266956	EP	Magblaster-Windseeker	Gruul's Lair	25
-1632266956	EP	Messmart-Windseeker	Gruul's Lair	25
-1632266956	EP	Rakkus-Windseeker	Gruul's Lair	25
-1632266956	EP	Nosferata-Windseeker	Gruul's Lair	25
-1632267154	GP	Buddlite-Windseeker	[Chestguard of the Fallen Defender]	250	|cffa335ee|Hitem:29753::::::::70:::::::::|h[Chestguard of the Fallen Defender]|h|r
-1632267157	GP	Deadliskye-Windseeker	[Chestguard of the Fallen Hero]	250	|cffa335ee|Hitem:29755::::::::70:::::::::|h[Chestguard of the Fallen Hero]|h|r
-1632267172	GP	Voodoosniper-Windseeker	[Terror Pit Girdle]	245	|cffa335ee|Hitem:28778::::::::70:::::::::|h[Terror Pit Girdle]|h|r
-1632267179	GP	Decandt-Windseeker	[Eye of Magtheridon]	408	|cffa335ee|Hitem:28789::::::::70:::::::::|h[Eye of Magtheridon]|h|r
-1632267186	GP	Blitzcore-Windseeker	[Magtheridon's Head]	183	|cffa335ee|Hitem:32386::::::::70:::::::::|h[Magtheridon's Head]|h|r
-1632267388	GP	Triisrawra-Windseeker	[Pit Lord's Satchel]	-0	|cffa335ee|Hitem:34845::::::::70:::::::::|h[Pit Lord's Satchel]|h|r
-1632267446	GP	Decandt-Windseeker	[Eye of Magtheridon]	-408	|cffa335ee|Hitem:28789::::::::70:::::::::|h[Eye of Magtheridon]|h|r
-1632267446	GP	Bêlch-Windseeker	[Eye of Magtheridon]	408	|cffa335ee|Hitem:28789::::::::70:::::::::|h[Eye of Magtheridon]|h|r
-1632268756	EP	Sahna-Windseeker	Gruul's Lair	25
-1632268756	EP	Majila-Windseeker	Gruul's Lair	25
-1632268756	EP	Cuttah-Windseeker	Gruul's Lair	25
-1632268756	EP	Uddermadnèss-Windseeker	Gruul's Lair	25
-1632268756	EP	Maslun-Windseeker	Gruul's Lair	25
-1632268756	EP	Triisrawra-Windseeker	Gruul's Lair	25
-1632268756	EP	Andrrick-Windseeker	Gruul's Lair	25
-1632268756	EP	Bashuk-Windseeker	Gruul's Lair	25
-1632268756	EP	Dotkilla-Windseeker	Gruul's Lair	25
-1632268756	EP	Abluepegasus-Windseeker	Gruul's Lair	25
-1632268756	EP	Roand-Windseeker	Gruul's Lair	25
-1632268756	EP	Buddlite-Windseeker	Gruul's Lair	25
-1632268756	EP	Ktulú-Windseeker	Gruul's Lair	25
-1632268756	EP	Kilola-Windseeker	Gruul's Lair	25
-1632268756	EP	Gordantell-Windseeker	Gruul's Lair	25
-1632268756	EP	Clicki-Windseeker	Gruul's Lair	25
-1632268756	EP	Decandt-Windseeker	Gruul's Lair	25
-1632268756	EP	Ozymandius-Windseeker	Gruul's Lair	25
-1632268756	EP	Bubblemeup-Windseeker	Gruul's Lair	25
-1632268756	EP	Droodhots-Windseeker	Gruul's Lair	25
-1632268756	EP	Deadliskye-Windseeker	Gruul's Lair	25
-1632268756	EP	Blitzcore-Windseeker	Gruul's Lair	25
-1632268756	EP	Sherlogohms-Windseeker	Gruul's Lair	25
-1632268756	EP	Bêlch-Windseeker	Gruul's Lair	25
-1632268756	EP	Magblaster-Windseeker	Gruul's Lair	25
-1632268756	EP	Messmart-Windseeker	Gruul's Lair	25
-1632268756	EP	Rakkus-Windseeker	Gruul's Lair	25
-1632268756	EP	Nosferata-Windseeker	Gruul's Lair	25
-1632268756	EP	Voodoosniper-Windseeker	Gruul's Lair	25
-1632270241	GP	Roand-Windseeker	[Pauldrons of the Fallen Defender]	187	|cffa335ee|Hitem:29764::::::::70:::::::::|h[Pauldrons of the Fallen Defender]|h|r
-1632270244	GP	Decandt-Windseeker	[Pauldrons of the Fallen Defender]	187	|cffa335ee|Hitem:29764::::::::70:::::::::|h[Pauldrons of the Fallen Defender]|h|r
-1632270556	EP	Sahna-Windseeker	Gruul's Lair	25
-1632270556	EP	Majila-Windseeker	Gruul's Lair	25
-1632270556	EP	Ktulú-Windseeker	Gruul's Lair	25
-1632270556	EP	Cuttah-Windseeker	Gruul's Lair	25
-1632270556	EP	Uddermadnèss-Windseeker	Gruul's Lair	25
-1632270556	EP	Maslun-Windseeker	Gruul's Lair	25
-1632270556	EP	Triisrawra-Windseeker	Gruul's Lair	25
-1632270556	EP	Andrrick-Windseeker	Gruul's Lair	25
-1632270556	EP	Bashuk-Windseeker	Gruul's Lair	25
-1632270556	EP	Dotkilla-Windseeker	Gruul's Lair	25
-1632270556	EP	Abluepegasus-Windseeker	Gruul's Lair	25
-1632270556	EP	Bubblemeup-Windseeker	Gruul's Lair	25
-1632270556	EP	Buddlite-Windseeker	Gruul's Lair	25
-1632270556	EP	Roand-Windseeker	Gruul's Lair	25
-1632270556	EP	Kilola-Windseeker	Gruul's Lair	25
-1632270556	EP	Gordantell-Windseeker	Gruul's Lair	25
-1632270556	EP	Clicki-Windseeker	Gruul's Lair	25
-1632270556	EP	Ozymandius-Windseeker	Gruul's Lair	25
-1632270556	EP	Droodhots-Windseeker	Gruul's Lair	25
-1632270556	EP	Decandt-Windseeker	Gruul's Lair	25
-1632270556	EP	Sherlogohms-Windseeker	Gruul's Lair	25
-1632270556	EP	Deadliskye-Windseeker	Gruul's Lair	25
-1632270556	EP	Blitzcore-Windseeker	Gruul's Lair	25
-1632270556	EP	Magblaster-Windseeker	Gruul's Lair	25
-1632270556	EP	Bêlch-Windseeker	Gruul's Lair	25
-1632270556	EP	Messmart-Windseeker	Gruul's Lair	25
-1632270556	EP	Rakkus-Windseeker	Gruul's Lair	25
-1632270556	EP	Nosferata-Windseeker	Gruul's Lair	25
-1632270556	EP	Voodoosniper-Windseeker	Gruul's Lair	25
-1632270861	GP	Voodoosniper-Windseeker	[Leggings of the Fallen Hero]	250	|cffa335ee|Hitem:29765::::::::70:::::::::|h[Leggings of the Fallen Hero]|h|r
-1632270929	GP	Magblaster-Windseeker	[Collar of Cho'gall]	326	|cffa335ee|Hitem:28804::::::::70:::::::::|h[Collar of Cho'gall]|h|r
-1632272356	EP	Sahna-Windseeker	Gruul's Lair	25
-1632272356	EP	Majila-Windseeker	Gruul's Lair	25
-1632272356	EP	Ktulú-Windseeker	Gruul's Lair	25
-1632272356	EP	Kilola-Windseeker	Gruul's Lair	25
-1632272356	EP	Cuttah-Windseeker	Gruul's Lair	25
-1632272356	EP	Uddermadnèss-Windseeker	Gruul's Lair	25
-1632272356	EP	Maslun-Windseeker	Gruul's Lair	25
-1632272356	EP	Triisrawra-Windseeker	Gruul's Lair	25
-1632272356	EP	Andrrick-Windseeker	Gruul's Lair	25
-1632272356	EP	Bashuk-Windseeker	Gruul's Lair	25
-1632272356	EP	Dotkilla-Windseeker	Gruul's Lair	25
-1632272356	EP	Abluepegasus-Windseeker	Gruul's Lair	25
-1632272356	EP	Bubblemeup-Windseeker	Gruul's Lair	25
-1632272356	EP	Decandt-Windseeker	Gruul's Lair	25
-1632272356	EP	Buddlite-Windseeker	Gruul's Lair	25
-1632272356	EP	Deadliskye-Windseeker	Gruul's Lair	25
-1632272356	EP	Blitzcore-Windseeker	Gruul's Lair	25
-1632272356	EP	Roand-Windseeker	Gruul's Lair	25
-1632272356	EP	Gordantell-Windseeker	Gruul's Lair	25
-1632272356	EP	Clicki-Windseeker	Gruul's Lair	25
-1632272356	EP	Ozymandius-Windseeker	Gruul's Lair	25
-1632272356	EP	Droodhots-Windseeker	Gruul's Lair	25
-1632272356	EP	Bêlch-Windseeker	Gruul's Lair	25
-1632272356	EP	Rakkus-Windseeker	Gruul's Lair	25
-1632272356	EP	Nosferata-Windseeker	Gruul's Lair	25
-1632272356	EP	Magblaster-Windseeker	Gruul's Lair - Standby	25
-1632272356	EP	Messmart-Windseeker	Gruul's Lair - Standby	25
-1632272756	GP	Decandt-Windseeker	[Robe of Hateful Echoes]	383	|cffa335ee|Hitem:30056::::::::70:::::::::|h[Robe of Hateful Echoes]|h|r
-1632273043	GP	Roand-Windseeker	[Serpentshrine Shuriken]	264	|cffa335ee|Hitem:30025::::::::70:::::::::|h[Serpentshrine Shuriken]|h|r
-1632273105	GP	Dotkilla-Windseeker	[Pattern: Belt of the Long Road]	-0	|cffa335ee|Hitem:30281::::::::70:::::::::|h[Pattern: Belt of the Long Road]|h|r
-1632274156	EP	Sahna-Windseeker	Gruul's Lair	25
-1632274156	EP	Majila-Windseeker	Gruul's Lair	25
-1632274156	EP	Ktulú-Windseeker	Gruul's Lair	25
-1632274156	EP	Kilola-Windseeker	Gruul's Lair	25
-1632274156	EP	Gordantell-Windseeker	Gruul's Lair	25
-1632274156	EP	Cuttah-Windseeker	Gruul's Lair	25
-1632274156	EP	Uddermadnèss-Windseeker	Gruul's Lair	25
-1632274156	EP	Maslun-Windseeker	Gruul's Lair	25
-1632274156	EP	Triisrawra-Windseeker	Gruul's Lair	25
-1632274156	EP	Andrrick-Windseeker	Gruul's Lair	25
-1632274156	EP	Bashuk-Windseeker	Gruul's Lair	25
-1632274156	EP	Dotkilla-Windseeker	Gruul's Lair	25
-1632274156	EP	Abluepegasus-Windseeker	Gruul's Lair	25
-1632274156	EP	Bubblemeup-Windseeker	Gruul's Lair	25
-1632274156	EP	Deadliskye-Windseeker	Gruul's Lair	25
-1632274156	EP	Buddlite-Windseeker	Gruul's Lair	25
-1632274156	EP	Blitzcore-Windseeker	Gruul's Lair	25
-1632274156	EP	Bêlch-Windseeker	Gruul's Lair	25
-1632274156	EP	Decandt-Windseeker	Gruul's Lair	25
-1632274156	EP	Roand-Windseeker	Gruul's Lair	25
-1632274156	EP	Clicki-Windseeker	Gruul's Lair	25
-1632274156	EP	Droodhots-Windseeker	Gruul's Lair	25
-1632274156	EP	Ozymandius-Windseeker	Gruul's Lair	25
-1632274156	EP	Nosferata-Windseeker	Gruul's Lair	25
-1632274156	EP	Rakkus-Windseeker	Gruul's Lair	25
-1632274601	GP	Roand-Windseeker	[Serpentshrine Shuriken]	-264	|cffa335ee|Hitem:30025::::::::70:::::::::|h[Serpentshrine Shuriken]|h|r
-1632275956	EP	Sahna-Windseeker	Gruul's Lair	25
-1632275956	EP	Majila-Windseeker	Gruul's Lair	25
-1632275956	EP	Ktulú-Windseeker	Gruul's Lair	25
-1632275956	EP	Kilola-Windseeker	Gruul's Lair	25
-1632275956	EP	Gordantell-Windseeker	Gruul's Lair	25
-1632275956	EP	Cuttah-Windseeker	Gruul's Lair	25
-1632275956	EP	Uddermadnèss-Windseeker	Gruul's Lair	25
-1632275956	EP	Maslun-Windseeker	Gruul's Lair	25
-1632275956	EP	Triisrawra-Windseeker	Gruul's Lair	25
-1632275956	EP	Andrrick-Windseeker	Gruul's Lair	25
-1632275956	EP	Bashuk-Windseeker	Gruul's Lair	25
-1632275956	EP	Dotkilla-Windseeker	Gruul's Lair	25
-1632275956	EP	Abluepegasus-Windseeker	Gruul's Lair	25
-1632275956	EP	Bubblemeup-Windseeker	Gruul's Lair	25
-1632275956	EP	Deadliskye-Windseeker	Gruul's Lair	25
-1632275956	EP	Buddlite-Windseeker	Gruul's Lair	25
-1632275956	EP	Blitzcore-Windseeker	Gruul's Lair	25
-1632275956	EP	Roand-Windseeker	Gruul's Lair	25
-1632275956	EP	Bêlch-Windseeker	Gruul's Lair	25
-1632275956	EP	Decandt-Windseeker	Gruul's Lair	25
-1632275956	EP	Clicki-Windseeker	Gruul's Lair	25
-1632275956	EP	Droodhots-Windseeker	Gruul's Lair	25
-1632275956	EP	Ozymandius-Windseeker	Gruul's Lair	25
-1632275956	EP	Rakkus-Windseeker	Gruul's Lair	25
-1632275956	EP	Nosferata-Windseeker	Gruul's Lair	25
-1632275956	EP	Silentscöut-Windseeker	Gruul's Lair - Standby	25
-1632437950	EP	Sahna-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Majila-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Ktulú-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Kilola-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Gordantell-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Cuttah-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Uddermadnèss-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Maslun-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Triisrawra-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Ozymandius-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Bashuk-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Dotkilla-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Abluepegasus-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Bubblemeup-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Buddlite-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Blitzcore-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Roand-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Bêlch-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Decandt-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Clicki-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Silentscöut-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Droodhots-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Tinnôr-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Nosferata-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Rakkus-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632437950	EP	Magblaster-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Sahna-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Majila-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Ktulú-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Kilola-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Gordantell-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Cuttah-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Uddermadnèss-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Maslun-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Triisrawra-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Ozymandius-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Bashuk-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Dotkilla-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Abluepegasus-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Bubblemeup-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Buddlite-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Blitzcore-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Roand-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Bêlch-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Decandt-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Clicki-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Silentscöut-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Droodhots-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Tinnôr-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Nosferata-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Rakkus-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632439753	EP	Magblaster-Windseeker	Coilfang: Serpentshrine Cavern - Standby	25
-1632441553	EP	Sahna-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Majila-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Ktulú-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Kilola-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Gordantell-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Cuttah-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Uddermadnèss-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Maslun-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Triisrawra-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Ozymandius-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Bashuk-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Dotkilla-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Abluepegasus-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Bubblemeup-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Buddlite-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Blitzcore-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Roand-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Bêlch-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Decandt-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Clicki-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Silentscöut-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Droodhots-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Tinnôr-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Rakkus-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632441553	EP	Nosferata-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Sahna-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Majila-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Ktulú-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Kilola-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Gordantell-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Cuttah-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Uddermadnèss-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Maslun-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Triisrawra-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Ozymandius-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Bashuk-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Dotkilla-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Abluepegasus-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Bubblemeup-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Buddlite-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Blitzcore-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Roand-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Bêlch-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Decandt-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Clicki-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Silentscöut-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Droodhots-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Tinnôr-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Rakkus-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443353	EP	Nosferata-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632443506	GP	Clicki-Windseeker	[Tempest-Strider Boots]	287	|cffa335ee|Hitem:30066::::::::70:::::::::|h[Tempest-Strider Boots]|h|r
-1632444009	GP	Roand-Windseeker	[Plans: Red Belt of Battle]	-0	|cffa335ee|Hitem:30322::::::::70:::::::::|h[Plans: Red Belt of Battle]|h|r
-1632444038	GP	Clicki-Windseeker	[Tempest-Strider Boots]	-287	|cffa335ee|Hitem:30066::::::::70:::::::::|h[Tempest-Strider Boots]|h|r
-1632444047	GP	Blitzcore-Windseeker	[Tempest-Strider Boots]	287	|cffa335ee|Hitem:30066::::::::70:::::::::|h[Tempest-Strider Boots]|h|r
-1632445153	EP	Sahna-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Majila-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Ktulú-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Kilola-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Gordantell-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Cuttah-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Uddermadnèss-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Maslun-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Triisrawra-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Bashuk-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Dotkilla-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Abluepegasus-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Bubblemeup-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Buddlite-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Roand-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Bêlch-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Blitzcore-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Decandt-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Clicki-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Silentscöut-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Droodhots-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Tinnôr-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Rakkus-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Nosferata-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445153	EP	Magblaster-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632445514	GP	Uddermadnèss-Windseeker	[Pattern: Belt of Deep Shadow]	-0	|cffa335ee|Hitem:30302::::::::70:::::::::|h[Pattern: Belt of Deep Shadow]|h|r
-1632446953	EP	Sahna-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Majila-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Ktulú-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Kilola-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Gordantell-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Cuttah-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Uddermadnèss-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Maslun-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Triisrawra-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Bashuk-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Dotkilla-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Abluepegasus-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Bubblemeup-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Buddlite-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Roand-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Bêlch-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Blitzcore-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Decandt-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Clicki-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Silentscöut-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Droodhots-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Tinnôr-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Rakkus-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Nosferata-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632446953	EP	Magblaster-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632447840	GP	Maslun-Windseeker	[Gloves of the Vanquished Champion]	375	|cffa335ee|Hitem:30239::::::::70:::::::::|h[Gloves of the Vanquished Champion]|h|r
-1632447850	GP	Triisrawra-Windseeker	[Gloves of the Vanquished Defender]	375	|cffa335ee|Hitem:30240::::::::70:::::::::|h[Gloves of the Vanquished Defender]|h|r
-1632447871	GP	Kilola-Windseeker	[Fang of the Leviathan]	791	|cffa335ee|Hitem:30095::::::::70:::::::::|h[Fang of the Leviathan]|h|r
-1632448753	EP	Sahna-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Majila-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Ktulú-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Gordantell-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Cuttah-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Uddermadnèss-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Bashuk-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Dotkilla-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Abluepegasus-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Bubblemeup-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Buddlite-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Maslun-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Triisrawra-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Roand-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Bêlch-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Blitzcore-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Decandt-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Kilola-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Clicki-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Silentscöut-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Droodhots-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Tinnôr-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Nosferata-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Rakkus-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632448753	EP	Magblaster-Windseeker	Coilfang: Serpentshrine Cavern	25
-1632449119	EP	Sahna-Windseeker	bonus gj!	25
-1632449119	EP	Majila-Windseeker	bonus gj!	25
-1632449119	EP	Ktulú-Windseeker	bonus gj!	25
-1632449119	EP	Gordantell-Windseeker	bonus gj!	25
-1632449119	EP	Cuttah-Windseeker	bonus gj!	25
-1632449119	EP	Uddermadnèss-Windseeker	bonus gj!	25
-1632449119	EP	Bashuk-Windseeker	bonus gj!	25
-1632449119	EP	Dotkilla-Windseeker	bonus gj!	25
-1632449119	EP	Abluepegasus-Windseeker	bonus gj!	25
-1632449119	EP	Bubblemeup-Windseeker	bonus gj!	25
-1632449119	EP	Buddlite-Windseeker	bonus gj!	25
-1632449119	EP	Maslun-Windseeker	bonus gj!	25
-1632449119	EP	Triisrawra-Windseeker	bonus gj!	25
-1632449119	EP	Roand-Windseeker	bonus gj!	25
-1632449119	EP	Bêlch-Windseeker	bonus gj!	25
-1632449119	EP	Blitzcore-Windseeker	bonus gj!	25
-1632449119	EP	Decandt-Windseeker	bonus gj!	25
-1632449119	EP	Kilola-Windseeker	bonus gj!	25
-1632449119	EP	Clicki-Windseeker	bonus gj!	25
-1632449119	EP	Silentscöut-Windseeker	bonus gj!	25
-1632449119	EP	Droodhots-Windseeker	bonus gj!	25
-1632449119	EP	Tinnôr-Windseeker	bonus gj!	25
-1632449119	EP	Nosferata-Windseeker	bonus gj!	25
-1632449119	EP	Rakkus-Windseeker	bonus gj!	25
-1632449119	EP	Magblaster-Windseeker	bonus gj!	25
-1632449478	EP	Deadliskye-Windseeker	Here in spirit	175
 1632869236	EP	Abluepegasus-Windseeker	Decay 8%	-84
 1632869236	GP	Abluepegasus-Windseeker	Decay 8%	-24
 1632869236	EP	Maslun-Windseeker	Decay 8%	-84
@@ -2172,7 +1698,7 @@ Nosferata-Windseeker	1545	704	HUNTER
 1634686182	EP	Bêlch-Windseeker	Coilfang: Serpentshrine Cavern	25
 1634686182	EP	Roand-Windseeker	Coilfang: Serpentshrine Cavern	25
 1634686182	EP	Mordú-Windseeker	Coilfang: Serpentshrine Cavern	25
-1634687225	GP	Andrrick-Windseeker	[Plans: Belt of the Guardian]	0	|cffa335ee|Hitem:30321::::::::70:::::::::|h[Plans: Belt of the Guardian]|h|r
+1634687225	GP	Andrrick-Windseeker	[Plans: Belt of the Guardian]	-0	|cffa335ee|Hitem:30321::::::::70:::::::::|h[Plans: Belt of the Guardian]|h|r
 1634687272	GP	Blitzcore-Windseeker	[Grove-Bands of Remulos]	214	|cffa335ee|Hitem:30062::::::::70:::::::::|h[Grove-Bands of Remulos]|h|r
 1634687982	EP	Clicki-Windseeker	Coilfang: Serpentshrine Cavern	25
 1634687982	EP	Ktulú-Windseeker	Coilfang: Serpentshrine Cavern	25
@@ -2281,7 +1807,7 @@ Nosferata-Windseeker	1545	704	HUNTER
 1634693382	EP	Triisrawra-Windseeker	Coilfang: Serpentshrine Cavern	25
 1634693382	EP	Roand-Windseeker	Coilfang: Serpentshrine Cavern	25
 1634693382	EP	Mordú-Windseeker	Coilfang: Serpentshrine Cavern	25
-1634693779	GP	Roand-Windseeker	[Plans: Belt of the Guardian]	0	|cffa335ee|Hitem:30321::::::::70:::::::::|h[Plans: Belt of the Guardian]|h|r
+1634693779	GP	Roand-Windseeker	[Plans: Belt of the Guardian]	-0	|cffa335ee|Hitem:30321::::::::70:::::::::|h[Plans: Belt of the Guardian]|h|r
 1634695100	GP	Bubblemeup-Windseeker	[Phoenix-Wing Cloak]	214	|cffa335ee|Hitem:29925::::::::70:::::::::|h[Phoenix-Wing Cloak]|h|r
 1634695105	GP	Dotkilla-Windseeker	[Mindstorm Wristbands]	214	|cffa335ee|Hitem:29918::::::::70:::::::::|h[Mindstorm Wristbands]|h|r
 1634695141	EP	Clicki-Windseeker	Tempest Keep	25
@@ -2309,3 +1835,278 @@ Nosferata-Windseeker	1545	704	HUNTER
 1634695141	EP	Triisrawra-Windseeker	Tempest Keep	25
 1634695141	EP	Roand-Windseeker	Tempest Keep	25
 1634695141	EP	Mordú-Windseeker	Tempest Keep	25
+1634695605	GP	Majila-Windseeker	[Belt of Blasting]	144	|cffa335ee|Hitem:30038::::::::70:::::::::|h[Belt of Blasting]|h|r
+1634695656	GP	Majila-Windseeker	[Belt of Deep Shadow]	144	|cffa335ee|Hitem:30040::::::::70:::::::::|h[Belt of Deep Shadow]|h|r
+1634695707	GP	Majila-Windseeker	[Belt of the Guardian]	144	|cffa335ee|Hitem:30034::::::::70:::::::::|h[Belt of the Guardian]|h|r
+1634695862	GP	Majila-Windseeker	[Belt of the Guardian]	-144	|cffa335ee|Hitem:30034::::::::70:::::::::|h[Belt of the Guardian]|h|r
+1634695866	GP	Majila-Windseeker	[Belt of Deep Shadow]	-144	|cffa335ee|Hitem:30040::::::::70:::::::::|h[Belt of Deep Shadow]|h|r
+1634695870	GP	Majila-Windseeker	[Belt of Blasting]	-144	|cffa335ee|Hitem:30038::::::::70:::::::::|h[Belt of Blasting]|h|r
+1634695883	GP	Ktulú-Windseeker	[Belt of Blasting]	144	|cffa335ee|Hitem:30038::::::::70:::::::::|h[Belt of Blasting]|h|r
+1634695901	GP	Nosferata-Windseeker	[Belt of the Guardian]	144	|cffa335ee|Hitem:30034::::::::70:::::::::|h[Belt of the Guardian]|h|r
+1634695935	GP	Bubblemeup-Windseeker	[Belt of Deep Shadow]	144	|cffa335ee|Hitem:30040::::::::70:::::::::|h[Belt of Deep Shadow]|h|r
+1634696195	GP	Decandt-Windseeker	[Belt of Blasting]	144	|cffa335ee|Hitem:30038::::::::70:::::::::|h[Belt of Blasting]|h|r
+1634857169	EP	Clicki-Windseeker	Tempest Keep	25
+1634857169	EP	Ktulú-Windseeker	Tempest Keep	25
+1634857169	EP	Dotkilla-Windseeker	Tempest Keep	25
+1634857169	EP	Gordantell-Windseeker	Tempest Keep	25
+1634857169	EP	Cuttah-Windseeker	Tempest Keep	25
+1634857169	EP	Sahna-Windseeker	Tempest Keep	25
+1634857169	EP	Uddermadnèss-Windseeker	Tempest Keep	25
+1634857169	EP	Majila-Windseeker	Tempest Keep	25
+1634857169	EP	Maslun-Windseeker	Tempest Keep	25
+1634857169	EP	Bashuk-Windseeker	Tempest Keep	25
+1634857169	EP	Greyghostt-Windseeker	Tempest Keep	25
+1634857169	EP	Blitzcore-Windseeker	Tempest Keep	25
+1634857169	EP	Nosferata-Windseeker	Tempest Keep	25
+1634857169	EP	Kilola-Windseeker	Tempest Keep	25
+1634857169	EP	Andrrick-Windseeker	Tempest Keep	25
+1634857169	EP	Abluepegasus-Windseeker	Tempest Keep	25
+1634857169	EP	Deadliskye-Windseeker	Tempest Keep	25
+1634857169	EP	Rakkus-Windseeker	Tempest Keep	25
+1634857169	EP	Buddlite-Windseeker	Tempest Keep	25
+1634857169	EP	Bubblemeup-Windseeker	Tempest Keep	25
+1634857169	EP	Bêlch-Windseeker	Tempest Keep	25
+1634857169	EP	Decandt-Windseeker	Tempest Keep	25
+1634857169	EP	Triisrawra-Windseeker	Tempest Keep	25
+1634857169	EP	Voodoosniper-Windseeker	Tempest Keep	25
+1634857169	EP	Roand-Windseeker	Tempest Keep	25
+1634857169	EP	Swifthealz-Windseeker	Tempest Keep	25
+1634857976	GP	Nosferata-Windseeker	[Bands of the Celestial Archer]	214	|cffa335ee|Hitem:30026::::::::70:::::::::|h[Bands of the Celestial Archer]|h|r
+1634858971	EP	Clicki-Windseeker	Tempest Keep	25
+1634858971	EP	Ktulú-Windseeker	Tempest Keep	25
+1634858971	EP	Dotkilla-Windseeker	Tempest Keep	25
+1634858971	EP	Gordantell-Windseeker	Tempest Keep	25
+1634858971	EP	Cuttah-Windseeker	Tempest Keep	25
+1634858971	EP	Sahna-Windseeker	Tempest Keep	25
+1634858971	EP	Uddermadnèss-Windseeker	Tempest Keep	25
+1634858971	EP	Majila-Windseeker	Tempest Keep	25
+1634858971	EP	Maslun-Windseeker	Tempest Keep	25
+1634858971	EP	Bashuk-Windseeker	Tempest Keep	25
+1634858971	EP	Greyghostt-Windseeker	Tempest Keep	25
+1634858971	EP	Blitzcore-Windseeker	Tempest Keep	25
+1634858971	EP	Kilola-Windseeker	Tempest Keep	25
+1634858971	EP	Andrrick-Windseeker	Tempest Keep	25
+1634858971	EP	Abluepegasus-Windseeker	Tempest Keep	25
+1634858971	EP	Rakkus-Windseeker	Tempest Keep	25
+1634858971	EP	Deadliskye-Windseeker	Tempest Keep	25
+1634858971	EP	Buddlite-Windseeker	Tempest Keep	25
+1634858971	EP	Nosferata-Windseeker	Tempest Keep	25
+1634858971	EP	Bubblemeup-Windseeker	Tempest Keep	25
+1634858971	EP	Bêlch-Windseeker	Tempest Keep	25
+1634858971	EP	Decandt-Windseeker	Tempest Keep	25
+1634858971	EP	Voodoosniper-Windseeker	Tempest Keep	25
+1634858971	EP	Triisrawra-Windseeker	Tempest Keep	25
+1634858971	EP	Roand-Windseeker	Tempest Keep	25
+1634858971	EP	Swifthealz-Windseeker	Tempest Keep	25
+1634859437	GP	Clicki-Windseeker	[Pauldrons of the Vanquished Champion]	375	|cffa335ee|Hitem:30248::::::::70:::::::::|h[Pauldrons of the Vanquished Champion]|h|r
+1634859443	GP	Abluepegasus-Windseeker	[Pauldrons of the Vanquished Defender]	375	|cffa335ee|Hitem:30249::::::::70:::::::::|h[Pauldrons of the Vanquished Defender]|h|r
+1634859912	GP	Sahna-Windseeker	[Mantle of the Elven Kings]	287	|cffa335ee|Hitem:30024::::::::70:::::::::|h[Mantle of the Elven Kings]|h|r
+1634860771	EP	Ktulú-Windseeker	Tempest Keep	25
+1634860771	EP	Dotkilla-Windseeker	Tempest Keep	25
+1634860771	EP	Clicki-Windseeker	Tempest Keep	25
+1634860771	EP	Gordantell-Windseeker	Tempest Keep	25
+1634860771	EP	Cuttah-Windseeker	Tempest Keep	25
+1634860771	EP	Uddermadnèss-Windseeker	Tempest Keep	25
+1634860771	EP	Majila-Windseeker	Tempest Keep	25
+1634860771	EP	Maslun-Windseeker	Tempest Keep	25
+1634860771	EP	Bashuk-Windseeker	Tempest Keep	25
+1634860771	EP	Greyghostt-Windseeker	Tempest Keep	25
+1634860771	EP	Blitzcore-Windseeker	Tempest Keep	25
+1634860771	EP	Sahna-Windseeker	Tempest Keep	25
+1634860771	EP	Kilola-Windseeker	Tempest Keep	25
+1634860771	EP	Andrrick-Windseeker	Tempest Keep	25
+1634860771	EP	Rakkus-Windseeker	Tempest Keep	25
+1634860771	EP	Deadliskye-Windseeker	Tempest Keep	25
+1634860771	EP	Buddlite-Windseeker	Tempest Keep	25
+1634860771	EP	Nosferata-Windseeker	Tempest Keep	25
+1634860771	EP	Bubblemeup-Windseeker	Tempest Keep	25
+1634860771	EP	Bêlch-Windseeker	Tempest Keep	25
+1634860771	EP	Decandt-Windseeker	Tempest Keep	25
+1634860771	EP	Abluepegasus-Windseeker	Tempest Keep	25
+1634860771	EP	Voodoosniper-Windseeker	Tempest Keep	25
+1634860771	EP	Triisrawra-Windseeker	Tempest Keep	25
+1634860771	EP	Roand-Windseeker	Tempest Keep	25
+1634860771	EP	Swifthealz-Windseeker	Tempest Keep	25
+1634860873	GP	Roand-Windseeker	[Plans: Red Havoc Boots]	144	|cffa335ee|Hitem:30324::::::::70:::::::::|h[Plans: Red Havoc Boots]|h|r
+1634862403	GP	Andrrick-Windseeker	[Greaves of the Bloodwarder]	383	|cffa335ee|Hitem:29950::::::::70:::::::::|h[Greaves of the Bloodwarder]|h|r
+1634862571	EP	Ktulú-Windseeker	Tempest Keep	25
+1634862571	EP	Dotkilla-Windseeker	Tempest Keep	25
+1634862571	EP	Clicki-Windseeker	Tempest Keep	25
+1634862571	EP	Gordantell-Windseeker	Tempest Keep	25
+1634862571	EP	Cuttah-Windseeker	Tempest Keep	25
+1634862571	EP	Uddermadnèss-Windseeker	Tempest Keep	25
+1634862571	EP	Majila-Windseeker	Tempest Keep	25
+1634862571	EP	Maslun-Windseeker	Tempest Keep	25
+1634862571	EP	Bashuk-Windseeker	Tempest Keep	25
+1634862571	EP	Greyghostt-Windseeker	Tempest Keep	25
+1634862571	EP	Blitzcore-Windseeker	Tempest Keep	25
+1634862571	EP	Sahna-Windseeker	Tempest Keep	25
+1634862571	EP	Kilola-Windseeker	Tempest Keep	25
+1634862571	EP	Rakkus-Windseeker	Tempest Keep	25
+1634862571	EP	Deadliskye-Windseeker	Tempest Keep	25
+1634862571	EP	Buddlite-Windseeker	Tempest Keep	25
+1634862571	EP	Nosferata-Windseeker	Tempest Keep	25
+1634862571	EP	Bubblemeup-Windseeker	Tempest Keep	25
+1634862571	EP	Bêlch-Windseeker	Tempest Keep	25
+1634862571	EP	Decandt-Windseeker	Tempest Keep	25
+1634862571	EP	Andrrick-Windseeker	Tempest Keep	25
+1634862571	EP	Abluepegasus-Windseeker	Tempest Keep	25
+1634862571	EP	Voodoosniper-Windseeker	Tempest Keep	25
+1634862571	EP	Triisrawra-Windseeker	Tempest Keep	25
+1634862571	EP	Roand-Windseeker	Tempest Keep	25
+1634862571	EP	Swifthealz-Windseeker	Tempest Keep	25
+1634864371	EP	Ktulú-Windseeker	Tempest Keep	25
+1634864371	EP	Dotkilla-Windseeker	Tempest Keep	25
+1634864371	EP	Clicki-Windseeker	Tempest Keep	25
+1634864371	EP	Gordantell-Windseeker	Tempest Keep	25
+1634864371	EP	Cuttah-Windseeker	Tempest Keep	25
+1634864371	EP	Uddermadnèss-Windseeker	Tempest Keep	25
+1634864371	EP	Majila-Windseeker	Tempest Keep	25
+1634864371	EP	Maslun-Windseeker	Tempest Keep	25
+1634864371	EP	Bashuk-Windseeker	Tempest Keep	25
+1634864371	EP	Greyghostt-Windseeker	Tempest Keep	25
+1634864371	EP	Blitzcore-Windseeker	Tempest Keep	25
+1634864371	EP	Sahna-Windseeker	Tempest Keep	25
+1634864371	EP	Kilola-Windseeker	Tempest Keep	25
+1634864371	EP	Rakkus-Windseeker	Tempest Keep	25
+1634864371	EP	Deadliskye-Windseeker	Tempest Keep	25
+1634864371	EP	Buddlite-Windseeker	Tempest Keep	25
+1634864371	EP	Nosferata-Windseeker	Tempest Keep	25
+1634864371	EP	Bubblemeup-Windseeker	Tempest Keep	25
+1634864371	EP	Bêlch-Windseeker	Tempest Keep	25
+1634864371	EP	Decandt-Windseeker	Tempest Keep	25
+1634864371	EP	Andrrick-Windseeker	Tempest Keep	25
+1634864371	EP	Abluepegasus-Windseeker	Tempest Keep	25
+1634864371	EP	Voodoosniper-Windseeker	Tempest Keep	25
+1634864371	EP	Triisrawra-Windseeker	Tempest Keep	25
+1634864371	EP	Roand-Windseeker	Tempest Keep	25
+1634864371	EP	Swifthealz-Windseeker	Tempest Keep	25
+1634864371	EP	Magblaster-Windseeker	Tempest Keep - Standby	25
+1634866171	EP	Ktulú-Windseeker	Tempest Keep	25
+1634866171	EP	Dotkilla-Windseeker	Tempest Keep	25
+1634866171	EP	Clicki-Windseeker	Tempest Keep	25
+1634866171	EP	Gordantell-Windseeker	Tempest Keep	25
+1634866171	EP	Cuttah-Windseeker	Tempest Keep	25
+1634866171	EP	Uddermadnèss-Windseeker	Tempest Keep	25
+1634866171	EP	Majila-Windseeker	Tempest Keep	25
+1634866171	EP	Maslun-Windseeker	Tempest Keep	25
+1634866171	EP	Bashuk-Windseeker	Tempest Keep	25
+1634866171	EP	Greyghostt-Windseeker	Tempest Keep	25
+1634866171	EP	Blitzcore-Windseeker	Tempest Keep	25
+1634866171	EP	Sahna-Windseeker	Tempest Keep	25
+1634866171	EP	Kilola-Windseeker	Tempest Keep	25
+1634866171	EP	Rakkus-Windseeker	Tempest Keep	25
+1634866171	EP	Deadliskye-Windseeker	Tempest Keep	25
+1634866171	EP	Buddlite-Windseeker	Tempest Keep	25
+1634866171	EP	Nosferata-Windseeker	Tempest Keep	25
+1634866171	EP	Bubblemeup-Windseeker	Tempest Keep	25
+1634866171	EP	Bêlch-Windseeker	Tempest Keep	25
+1634866171	EP	Decandt-Windseeker	Tempest Keep	25
+1634866171	EP	Andrrick-Windseeker	Tempest Keep	25
+1634866171	EP	Abluepegasus-Windseeker	Tempest Keep	25
+1634866171	EP	Voodoosniper-Windseeker	Tempest Keep	25
+1634866171	EP	Triisrawra-Windseeker	Tempest Keep	25
+1634866171	EP	Roand-Windseeker	Tempest Keep	25
+1634866171	EP	Swifthealz-Windseeker	Tempest Keep	25
+1634867971	EP	Ktulú-Windseeker	Tempest Keep	25
+1634867971	EP	Dotkilla-Windseeker	Tempest Keep	25
+1634867971	EP	Clicki-Windseeker	Tempest Keep	25
+1634867971	EP	Gordantell-Windseeker	Tempest Keep	25
+1634867971	EP	Cuttah-Windseeker	Tempest Keep	25
+1634867971	EP	Uddermadnèss-Windseeker	Tempest Keep	25
+1634867971	EP	Majila-Windseeker	Tempest Keep	25
+1634867971	EP	Maslun-Windseeker	Tempest Keep	25
+1634867971	EP	Bashuk-Windseeker	Tempest Keep	25
+1634867971	EP	Greyghostt-Windseeker	Tempest Keep	25
+1634867971	EP	Blitzcore-Windseeker	Tempest Keep	25
+1634867971	EP	Sahna-Windseeker	Tempest Keep	25
+1634867971	EP	Kilola-Windseeker	Tempest Keep	25
+1634867971	EP	Rakkus-Windseeker	Tempest Keep	25
+1634867971	EP	Deadliskye-Windseeker	Tempest Keep	25
+1634867971	EP	Nosferata-Windseeker	Tempest Keep	25
+1634867971	EP	Buddlite-Windseeker	Tempest Keep	25
+1634867971	EP	Bubblemeup-Windseeker	Tempest Keep	25
+1634867971	EP	Bêlch-Windseeker	Tempest Keep	25
+1634867971	EP	Decandt-Windseeker	Tempest Keep	25
+1634867971	EP	Andrrick-Windseeker	Tempest Keep	25
+1634867971	EP	Abluepegasus-Windseeker	Tempest Keep	25
+1634867971	EP	Voodoosniper-Windseeker	Tempest Keep	25
+1634867971	EP	Triisrawra-Windseeker	Tempest Keep	25
+1634867971	EP	Roand-Windseeker	Tempest Keep	25
+1634867971	EP	Swifthealz-Windseeker	Tempest Keep	25
+1634867971	EP	Magblaster-Windseeker	Tempest Keep - Standby	25
+1635112721	EP	Ktulú-Windseeker	Gruul's Lair	25
+1635112721	EP	Dotkilla-Windseeker	Gruul's Lair	25
+1635112721	EP	Clicki-Windseeker	Gruul's Lair	25
+1635112721	EP	Gordantell-Windseeker	Gruul's Lair	25
+1635112721	EP	Cuttah-Windseeker	Gruul's Lair	25
+1635112721	EP	Uddermadnèss-Windseeker	Gruul's Lair	25
+1635112721	EP	Majila-Windseeker	Gruul's Lair	25
+1635112721	EP	Maslun-Windseeker	Gruul's Lair	25
+1635112721	EP	Bashuk-Windseeker	Gruul's Lair	25
+1635112721	EP	Greyghostt-Windseeker	Gruul's Lair	25
+1635112721	EP	Blitzcore-Windseeker	Gruul's Lair	25
+1635112721	EP	Sahna-Windseeker	Gruul's Lair	25
+1635112721	EP	Kilola-Windseeker	Gruul's Lair	25
+1635112721	EP	Rakkus-Windseeker	Gruul's Lair	25
+1635112721	EP	Deadliskye-Windseeker	Gruul's Lair	25
+1635112721	EP	Nosferata-Windseeker	Gruul's Lair	25
+1635112721	EP	Buddlite-Windseeker	Gruul's Lair	25
+1635112721	EP	Decandt-Windseeker	Gruul's Lair	25
+1635112721	EP	Andrrick-Windseeker	Gruul's Lair	25
+1635112721	EP	Abluepegasus-Windseeker	Gruul's Lair	25
+1635112721	EP	Voodoosniper-Windseeker	Gruul's Lair	25
+1635112721	EP	Triisrawra-Windseeker	Gruul's Lair	25
+1635113638	GP	Ktulú-Windseeker	[Brute Cloak of the Ogre-Magi]	183	|cffa335ee|Hitem:28797::::::::70:::::::::|h[Brute Cloak of the Ogre-Magi]|h|r
+1635114523	EP	Dotkilla-Windseeker	Gruul's Lair	25
+1635114523	EP	Clicki-Windseeker	Gruul's Lair	25
+1635114523	EP	Gordantell-Windseeker	Gruul's Lair	25
+1635114523	EP	Ktulú-Windseeker	Gruul's Lair	25
+1635114523	EP	Cuttah-Windseeker	Gruul's Lair	25
+1635114523	EP	Uddermadnèss-Windseeker	Gruul's Lair	25
+1635114523	EP	Majila-Windseeker	Gruul's Lair	25
+1635114523	EP	Maslun-Windseeker	Gruul's Lair	25
+1635114523	EP	Bashuk-Windseeker	Gruul's Lair	25
+1635114523	EP	Greyghostt-Windseeker	Gruul's Lair	25
+1635114523	EP	Blitzcore-Windseeker	Gruul's Lair	25
+1635114523	EP	Sahna-Windseeker	Gruul's Lair	25
+1635114523	EP	Kilola-Windseeker	Gruul's Lair	25
+1635114523	EP	Rakkus-Windseeker	Gruul's Lair	25
+1635114523	EP	Deadliskye-Windseeker	Gruul's Lair	25
+1635114523	EP	Nosferata-Windseeker	Gruul's Lair	25
+1635114523	EP	Buddlite-Windseeker	Gruul's Lair	25
+1635114523	EP	Bêlch-Windseeker	Gruul's Lair	25
+1635114523	EP	Decandt-Windseeker	Gruul's Lair	25
+1635114523	EP	Andrrick-Windseeker	Gruul's Lair	25
+1635114523	EP	Voodoosniper-Windseeker	Gruul's Lair	25
+1635114523	EP	Abluepegasus-Windseeker	Gruul's Lair	25
+1635114523	EP	Triisrawra-Windseeker	Gruul's Lair	25
+1635114523	EP	Swifthealz-Windseeker	Gruul's Lair	25
+1635115241	EP	Dotkilla-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Clicki-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Gordantell-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Ktulú-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Cuttah-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Uddermadnèss-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Majila-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Maslun-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Bashuk-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Greyghostt-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Blitzcore-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Sahna-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Kilola-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Rakkus-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Deadliskye-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Nosferata-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Buddlite-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Bêlch-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Decandt-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Voodoosniper-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Andrrick-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Abluepegasus-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Triisrawra-Windseeker	Magtheridon's Lair	25
+1635115241	EP	Swifthealz-Windseeker	Magtheridon's Lair	25
+1635115257	GP	Ktulú-Windseeker	[Soul-Eater's Handwraps]	245	|cffa335ee|Hitem:28780::::::::70:::::::::|h[Soul-Eater's Handwraps]|h|r
+1635115268	GP	Swifthealz-Windseeker	[Magtheridon's Head]	183	|cffa335ee|Hitem:32386::::::::70:::::::::|h[Magtheridon's Head]|h|r
+1635115305	GP	Kilola-Windseeker	[Pit Lord's Satchel]	-0	|cffa335ee|Hitem:34845::::::::70:::::::::|h[Pit Lord's Satchel]|h|r
+1635115325	GP	Blitzcore-Windseeker	[Chestguard of the Fallen Champion]	125	|cffa335ee|Hitem:29754::::::::70:::::::::|h[Chestguard of the Fallen Champion]|h|r
