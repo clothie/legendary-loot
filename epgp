@@ -1,4 +1,4 @@
-#	timestamp	1654037356
+#	timestamp	1654639902
 #	version	v1.0
 #	addon	v1.6.4-tbc
 #	interface	20504
@@ -13,535 +13,43 @@
 #	outsiders	0
 
 #	roster	name,ep,gp,class
-Spirit-Windseeker	2428	2923	DRUID
-Abluepegasus-Windseeker	4625	3920	WARRIOR
-Maslun-Windseeker	4697	3135	SHAMAN
-Kilola-Windseeker	2366	1138	MAGE
-Grudgelock-Windseeker	2815	2164	WARLOCK
-Buddlite-Windseeker	4504	3716	PRIEST
-Dotkilla-Windseeker	4624	2729	WARLOCK
-Majila-Windseeker	4699	3738	PALADIN
-Kabbin-Windseeker	2120	844	WARRIOR
-Hawkgobbler-Windseeker	2792	1919	DRUID
-Roand-Windseeker	3028	3414	WARRIOR
-Uddermadnèss-Windseeker	4450	1912	HUNTER
-Apecharm-Windseeker	1370	3834	SHAMAN
-Deadliskye-Windseeker	4397	2963	WARLOCK
-Bêlch-Windseeker	339	372	PRIEST
-Greybull-Windseeker	3860	4145	WARRIOR
-Ozymandius-Windseeker	23	0	SHAMAN
-Gordantell-Windseeker	4694	3138	HUNTER
-Inabua-Windseeker	51	49	SHAMAN
-Cuttah-Windseeker	4072	2660	ROGUE
-Bashuk-Windseeker	4431	831	HUNTER
-Andrrick-Windseeker	4439	1882	PALADIN
-Wazuwasol-Windseeker	1000	2684	PRIEST
-Greyghostt-Windseeker	303	27	HUNTER
-Ktulú-Windseeker	4461	2027	SHAMAN
-Joeydjia-Windseeker	8	0	PRIEST
-Swifthealz-Windseeker	3701	2841	DRUID
-Voodoosniper-Windseeker	3597	2673	HUNTER
-Triisrawra-Windseeker	4434	2420	DRUID
-Clicki-Windseeker	3729	2916	SHAMAN
-Blitzcore-Windseeker	3752	2579	SHAMAN
-Bubblemeup-Windseeker	4311	3498	PALADIN
-Candel-Windseeker	3204	2903	PRIEST
-Malanda-Windseeker	1726	1028	WARLOCK
+Spirit-Windseeker	2408	2968	DRUID
+Abluepegasus-Windseeker	4705	3598	WARRIOR
+Maslun-Windseeker	4596	2876	SHAMAN
+Kilola-Windseeker	2626	1325	MAGE
+Grudgelock-Windseeker	2939	1982	WARLOCK
+Buddlite-Windseeker	4593	3410	PRIEST
+Dotkilla-Windseeker	4704	2502	WARLOCK
+Majila-Windseeker	4773	3796	PALADIN
+Kabbin-Windseeker	2000	768	WARRIOR
+Hawkgobbler-Windseeker	2968	1757	DRUID
+Uddermadnèss-Windseeker	4544	2230	HUNTER
+Apecharm-Windseeker	1560	3885	SHAMAN
+Deadliskye-Windseeker	4495	2717	WARLOCK
+Bêlch-Windseeker	311	334	PRIEST
+Blitzcore-Windseeker	3876	3364	SHAMAN
+Greybull-Windseeker	4001	3805	WARRIOR
+Gordantell-Windseeker	4768	3092	HUNTER
+Triisrawra-Windseeker	4529	2218	DRUID
+Ozymandius-Windseeker	21	0	SHAMAN
+Cuttah-Windseeker	4196	3092	ROGUE
+Inabua-Windseeker	46	37	SHAMAN
+Bashuk-Windseeker	4426	756	HUNTER
+Andrrick-Windseeker	4508	1723	PALADIN
+Knockhed-Windseeker	400	383	WARRIOR
+Greyghostt-Windseeker	278	16	HUNTER
+Ktulú-Windseeker	4554	1856	SHAMAN
+Milkthedvein-Windseeker	275	500	DRUID
+Joeydjia-Windseeker	7	0	PRIEST
+Roand-Windseeker	3110	4664	WARRIOR
+Voodoosniper-Windseeker	3759	2665	HUNTER
+Clicki-Windseeker	3430	2674	SHAMAN
+Wazuwasol-Windseeker	1345	3748	PRIEST
+Bubblemeup-Windseeker	4416	3711	PALADIN
+Candel-Windseeker	3047	2662	PRIEST
+Malanda-Windseeker	2037	1312	WARLOCK
 
 #	log	timestamp,type,name,reason,value
-1651446003	EP	Malanda-Windseeker	Black Temple	25
-1651446003	EP	Bashuk-Windseeker	Black Temple	25
-1651446003	EP	Gordantell-Windseeker	Black Temple	25
-1651446003	EP	Andrrick-Windseeker	Black Temple	25
-1651446003	EP	Uddermadnèss-Windseeker	Black Temple	25
-1651446003	EP	Dotkilla-Windseeker	Black Temple	25
-1651446003	EP	Sahna-Windseeker	Black Temple	25
-1651446003	EP	Buddlite-Windseeker	Black Temple	25
-1651446003	EP	Kilola-Windseeker	Black Temple	25
-1651446003	EP	Triisrawra-Windseeker	Black Temple	25
-1651446003	EP	Majila-Windseeker	Black Temple	25
-1651446003	EP	Deadliskye-Windseeker	Black Temple	25
-1651446003	EP	Ktulú-Windseeker	Black Temple	25
-1651446003	EP	Maslun-Windseeker	Black Temple	25
-1651446003	EP	Bubblemeup-Windseeker	Black Temple	25
-1651446003	EP	Grudgelock-Windseeker	Black Temple	25
-1651446003	EP	Cuttah-Windseeker	Black Temple	25
-1651446003	EP	Abluepegasus-Windseeker	Black Temple	25
-1651446003	EP	Voodoosniper-Windseeker	Black Temple	25
-1651446003	EP	Greybull-Windseeker	Black Temple	25
-1651446003	EP	Swifthealz-Windseeker	Black Temple	25
-1651446003	EP	Candel-Windseeker	Black Temple	25
-1651446003	EP	Spirit-Windseeker	Black Temple	25
-1651446003	EP	Dannymalcom-Windseeker	Black Temple	25
-1651446003	EP	Apecharm-Windseeker	Black Temple	25
-1651447805	EP	Malanda-Windseeker	Black Temple	25
-1651447805	EP	Gordantell-Windseeker	Black Temple	25
-1651447805	EP	Andrrick-Windseeker	Black Temple	25
-1651447805	EP	Uddermadnèss-Windseeker	Black Temple	25
-1651447805	EP	Dotkilla-Windseeker	Black Temple	25
-1651447805	EP	Sahna-Windseeker	Black Temple	25
-1651447805	EP	Buddlite-Windseeker	Black Temple	25
-1651447805	EP	Kilola-Windseeker	Black Temple	25
-1651447805	EP	Triisrawra-Windseeker	Black Temple	25
-1651447805	EP	Majila-Windseeker	Black Temple	25
-1651447805	EP	Deadliskye-Windseeker	Black Temple	25
-1651447805	EP	Ktulú-Windseeker	Black Temple	25
-1651447805	EP	Maslun-Windseeker	Black Temple	25
-1651447805	EP	Bubblemeup-Windseeker	Black Temple	25
-1651447805	EP	Grudgelock-Windseeker	Black Temple	25
-1651447805	EP	Cuttah-Windseeker	Black Temple	25
-1651447805	EP	Clicki-Windseeker	Black Temple	25
-1651447805	EP	Abluepegasus-Windseeker	Black Temple	25
-1651447805	EP	Voodoosniper-Windseeker	Black Temple	25
-1651447805	EP	Greybull-Windseeker	Black Temple	25
-1651447805	EP	Swifthealz-Windseeker	Black Temple	25
-1651447805	EP	Candel-Windseeker	Black Temple	25
-1651447805	EP	Spirit-Windseeker	Black Temple	25
-1651447805	EP	Apecharm-Windseeker	Black Temple	25
-1651447805	EP	Dannymalcom-Windseeker	Black Temple	25
-1651448037	GP	Gordantell-Windseeker	[Cursed Vision of Sargeras]	653	|cffa335ee|Hitem:32235::::::::70:::::::::|h[Cursed Vision of Sargeras]|h|r
-1651448047	GP	Malanda-Windseeker	[Chestguard of the Forgotten Conqueror]	500	|cffa335ee|Hitem:31089::::::::70:::::::::|h[Chestguard of the Forgotten Conqueror]|h|r
-1651448054	GP	Uddermadnèss-Windseeker	[Chestguard of the Forgotten Protector]	500	|cffa335ee|Hitem:31091::::::::70:::::::::|h[Chestguard of the Forgotten Protector]|h|r
-1651448077	GP	Dannymalcom-Windseeker	[Cowl of the Illidari High Lord]	653	|cffa335ee|Hitem:32525::::::::70:::::::::|h[Cowl of the Illidari High Lord]|h|r
-1651448201	EP	Andrrick-Windseeker	Black Temple	25
-1651448201	EP	Dotkilla-Windseeker	Black Temple	25
-1651448201	EP	Sahna-Windseeker	Black Temple	25
-1651448201	EP	Buddlite-Windseeker	Black Temple	25
-1651448201	EP	Gordantell-Windseeker	Black Temple	25
-1651448201	EP	Uddermadnèss-Windseeker	Black Temple	25
-1651448201	EP	Kilola-Windseeker	Black Temple	25
-1651448201	EP	Triisrawra-Windseeker	Black Temple	25
-1651448201	EP	Majila-Windseeker	Black Temple	25
-1651448201	EP	Deadliskye-Windseeker	Black Temple	25
-1651448201	EP	Ktulú-Windseeker	Black Temple	25
-1651448201	EP	Maslun-Windseeker	Black Temple	25
-1651448201	EP	Bubblemeup-Windseeker	Black Temple	25
-1651448201	EP	Grudgelock-Windseeker	Black Temple	25
-1651448201	EP	Malanda-Windseeker	Black Temple	25
-1651448201	EP	Cuttah-Windseeker	Black Temple	25
-1651448201	EP	Clicki-Windseeker	Black Temple	25
-1651448201	EP	Abluepegasus-Windseeker	Black Temple	25
-1651448201	EP	Voodoosniper-Windseeker	Black Temple	25
-1651448201	EP	Greybull-Windseeker	Black Temple	25
-1651448201	EP	Swifthealz-Windseeker	Black Temple	25
-1651448201	EP	Candel-Windseeker	Black Temple	25
-1651448201	EP	Spirit-Windseeker	Black Temple	25
-1651448201	EP	Apecharm-Windseeker	Black Temple	25
-1651448201	EP	Dannymalcom-Windseeker	Black Temple	25
-1651448201	EP	Marcog-Windseeker	Black Temple	25
-1651448201	EP	Bashuk-Windseeker	Black Temple - Standby	25
-1651448214	EP	Marcog-Windseeker	other	-25
-1651612666	EP	Dannymalcom-Windseeker	Decay 8%	-34
-1651612666	GP	Dannymalcom-Windseeker	Decay 8%	-78
-1651612666	EP	Spirit-Windseeker	Decay 8%	-149
-1651612666	GP	Spirit-Windseeker	Decay 8%	-237
-1651612666	EP	Abluepegasus-Windseeker	Decay 8%	-379
-1651612666	GP	Abluepegasus-Windseeker	Decay 8%	-340
-1651612666	EP	Maslun-Windseeker	Decay 8%	-376
-1651612666	GP	Maslun-Windseeker	Decay 8%	-262
-1651612666	EP	Kilola-Windseeker	Decay 8%	-190
-1651612666	GP	Kilola-Windseeker	Decay 8%	-115
-1651612666	EP	Gordantell-Windseeker	Decay 8%	-376
-1651612666	GP	Gordantell-Windseeker	Decay 8%	-216
-1651612666	EP	Swifthealz-Windseeker	Decay 8%	-291
-1651612666	GP	Swifthealz-Windseeker	Decay 8%	-285
-1651612666	EP	Buddlite-Windseeker	Decay 8%	-369
-1651612666	GP	Buddlite-Windseeker	Decay 8%	-208
-1651612666	EP	Sahna-Windseeker	Decay 8%	-377
-1651612666	GP	Sahna-Windseeker	Decay 8%	-193
-1651612666	EP	Dotkilla-Windseeker	Decay 8%	-368
-1651612666	GP	Dotkilla-Windseeker	Decay 8%	-188
-1651612666	EP	Majila-Windseeker	Decay 8%	-377
-1651612666	GP	Majila-Windseeker	Decay 8%	-250
-1651612666	EP	Kabbin-Windseeker	Decay 8%	-134
-1651612666	GP	Kabbin-Windseeker	Decay 8%	-76
-1651612666	EP	Hawkgobbler-Windseeker	Decay 8%	-218
-1651612666	GP	Hawkgobbler-Windseeker	Decay 8%	-179
-1651612666	EP	Uddermadnèss-Windseeker	Decay 8%	-377
-1651612666	GP	Uddermadnèss-Windseeker	Decay 8%	-225
-1651612666	EP	Apecharm-Windseeker	Decay 8%	-62
-1651612666	GP	Apecharm-Windseeker	Decay 8%	-221
-1651612666	EP	Deadliskye-Windseeker	Decay 8%	-346
-1651612666	GP	Deadliskye-Windseeker	Decay 8%	-233
-1651612666	EP	Decandt-Windseeker	Decay 8%	-117
-1651612666	GP	Decandt-Windseeker	Decay 8%	-134
-1651612666	EP	Bêlch-Windseeker	Decay 8%	-39
-1651612666	GP	Bêlch-Windseeker	Decay 8%	-53
-1651612666	EP	Candel-Windseeker	Decay 8%	-210
-1651612666	GP	Candel-Windseeker	Decay 8%	-295
-1651612666	EP	Blitzcore-Windseeker	Decay 8%	-292
-1651612666	GP	Blitzcore-Windseeker	Decay 8%	-215
-1651612666	EP	Inabua-Windseeker	Decay 8%	-6
-1651612666	GP	Inabua-Windseeker	Decay 8%	-17
-1651612666	EP	Greybull-Windseeker	Decay 8%	-283
-1651612666	GP	Greybull-Windseeker	Decay 8%	-255
-1651612666	EP	Grudgelock-Windseeker	Decay 8%	-213
-1651612666	GP	Grudgelock-Windseeker	Decay 8%	-168
-1651612666	EP	Ozymandius-Windseeker	Decay 8%	-3
-1651612666	EP	Triisrawra-Windseeker	Decay 8%	-362
-1651612666	GP	Triisrawra-Windseeker	Decay 8%	-231
-1651612666	EP	Roand-Windseeker	Decay 8%	-282
-1651612666	GP	Roand-Windseeker	Decay 8%	-220
-1651612666	EP	Cuttah-Windseeker	Decay 8%	-306
-1651612666	GP	Cuttah-Windseeker	Decay 8%	-258
-1651612666	EP	Bashuk-Windseeker	Decay 8%	-360
-1651612666	GP	Bashuk-Windseeker	Decay 8%	-105
-1651612666	EP	Andrrick-Windseeker	Decay 8%	-348
-1651612666	GP	Andrrick-Windseeker	Decay 8%	-165
-1651612666	EP	Wazuwasol-Windseeker	Decay 8%	-40
-1651612666	GP	Wazuwasol-Windseeker	Decay 8%	-175
-1651612666	EP	Greyghostt-Windseeker	Decay 8%	-35
-1651612666	GP	Greyghostt-Windseeker	Decay 8%	-15
-1651612666	EP	Ktulú-Windseeker	Decay 8%	-350
-1651612666	GP	Ktulú-Windseeker	Decay 8%	-238
-1651612666	EP	Joeydjia-Windseeker	Decay 8%	-2
-1651612666	EP	Voodoosniper-Windseeker	Decay 8%	-256
-1651612666	GP	Voodoosniper-Windseeker	Decay 8%	-231
-1651612666	EP	Clicki-Windseeker	Decay 8%	-302
-1651612666	GP	Clicki-Windseeker	Decay 8%	-264
-1651612666	EP	Bubblemeup-Windseeker	Decay 8%	-353
-1651612666	GP	Bubblemeup-Windseeker	Decay 8%	-266
-1651612666	EP	Malanda-Windseeker	Decay 8%	-63
-1651612666	GP	Malanda-Windseeker	Decay 8%	-48
-1651618817	EP	Bashuk-Windseeker	The Battle for Mount Hyjal	25
-1651618817	EP	Andrrick-Windseeker	The Battle for Mount Hyjal	25
-1651618817	EP	Dotkilla-Windseeker	The Battle for Mount Hyjal	25
-1651618817	EP	Sahna-Windseeker	The Battle for Mount Hyjal	25
-1651618817	EP	Kabbin-Windseeker	The Battle for Mount Hyjal	25
-1651618817	EP	Buddlite-Windseeker	The Battle for Mount Hyjal	25
-1651618817	EP	Gordantell-Windseeker	The Battle for Mount Hyjal	25
-1651618817	EP	Uddermadnèss-Windseeker	The Battle for Mount Hyjal	25
-1651618817	EP	Triisrawra-Windseeker	The Battle for Mount Hyjal	25
-1651618817	EP	Majila-Windseeker	The Battle for Mount Hyjal	25
-1651618817	EP	Deadliskye-Windseeker	The Battle for Mount Hyjal	25
-1651618817	EP	Ktulú-Windseeker	The Battle for Mount Hyjal	25
-1651618817	EP	Maslun-Windseeker	The Battle for Mount Hyjal	25
-1651618817	EP	Blitzcore-Windseeker	The Battle for Mount Hyjal	25
-1651618817	EP	Malanda-Windseeker	The Battle for Mount Hyjal	25
-1651618817	EP	Cuttah-Windseeker	The Battle for Mount Hyjal	25
-1651618817	EP	Abluepegasus-Windseeker	The Battle for Mount Hyjal	25
-1651618817	EP	Voodoosniper-Windseeker	The Battle for Mount Hyjal	25
-1651618817	EP	Greybull-Windseeker	The Battle for Mount Hyjal	25
-1651618817	EP	Swifthealz-Windseeker	The Battle for Mount Hyjal	25
-1651618817	EP	Candel-Windseeker	The Battle for Mount Hyjal	25
-1651618817	EP	Dannymalcom-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Bashuk-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Andrrick-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Dotkilla-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Sahna-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Kabbin-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Buddlite-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Gordantell-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Uddermadnèss-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Triisrawra-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Majila-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Deadliskye-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Ktulú-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Maslun-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Blitzcore-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Malanda-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Bubblemeup-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Cuttah-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Abluepegasus-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Voodoosniper-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Greybull-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Swifthealz-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Candel-Windseeker	The Battle for Mount Hyjal	25
-1651620618	EP	Dannymalcom-Windseeker	The Battle for Mount Hyjal	25
-1651622181	GP	Dannymalcom-Windseeker	[Anetheron's Noose]	287	|cffa335ee|Hitem:30888::::::::70:::::::::|h[Anetheron's Noose]|h|r
-1651622418	EP	Bashuk-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Andrrick-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Dotkilla-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Sahna-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Kabbin-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Buddlite-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Gordantell-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Uddermadnèss-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Triisrawra-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Majila-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Deadliskye-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Ktulú-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Maslun-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Malanda-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Blitzcore-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Bubblemeup-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Cuttah-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Voodoosniper-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Abluepegasus-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Greybull-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Swifthealz-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Candel-Windseeker	The Battle for Mount Hyjal	25
-1651622418	EP	Dannymalcom-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Bashuk-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Andrrick-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Dotkilla-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Sahna-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Kabbin-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Buddlite-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Gordantell-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Uddermadnèss-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Triisrawra-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Majila-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Deadliskye-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Ktulú-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Maslun-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Malanda-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Blitzcore-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Bubblemeup-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Hawkgobbler-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Cuttah-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Clicki-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Voodoosniper-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Abluepegasus-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Greybull-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Swifthealz-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Candel-Windseeker	The Battle for Mount Hyjal	25
-1651624218	EP	Dannymalcom-Windseeker	The Battle for Mount Hyjal	25
-1651624747	GP	Maslun-Windseeker	[Bow-stitched Leggings]	383	|cffa335ee|Hitem:30900::::::::70:::::::::|h[Bow-stitched Leggings]|h|r
-1651625336	GP	Triisrawra-Windseeker	[Helm of the Forgotten Vanquisher]	165	|cffa335ee|Hitem:31096::::::::70:::::::::|h[Helm of the Forgotten Vanquisher]|h|r
-1651625343	GP	Abluepegasus-Windseeker	[Midnight Chestguard]	215	|cffa335ee|Hitem:30905::::::::70:::::::::|h[Midnight Chestguard]|h|r
-1651625351	GP	Swifthealz-Windseeker	[Scepter of Purification]	326	|cffa335ee|Hitem:30911::::::::70:::::::::|h[Scepter of Purification]|h|r
-1651625513	GP	Triisrawra-Windseeker	[Helm of the Forgotten Vanquisher]	-165	|cffa335ee|Hitem:31096::::::::70:::::::::|h[Helm of the Forgotten Vanquisher]|h|r
-1651626018	EP	Bashuk-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Andrrick-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Dotkilla-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Sahna-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Kabbin-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Buddlite-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Gordantell-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Uddermadnèss-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Triisrawra-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Majila-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Deadliskye-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Ktulú-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Malanda-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Blitzcore-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Bubblemeup-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Maslun-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Hawkgobbler-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Cuttah-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Voodoosniper-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Clicki-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Greybull-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Abluepegasus-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Swifthealz-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Candel-Windseeker	The Battle for Mount Hyjal	25
-1651626018	EP	Dannymalcom-Windseeker	The Battle for Mount Hyjal	25
-1651626801	GP	Malanda-Windseeker	[Ring of Captured Storms]	214	|cffa335ee|Hitem:32247::::::::70:::::::::|h[Ring of Captured Storms]|h|r
-1651627818	EP	Bashuk-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Andrrick-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Dotkilla-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Sahna-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Kabbin-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Buddlite-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Gordantell-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Uddermadnèss-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Triisrawra-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Majila-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Deadliskye-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Ktulú-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Blitzcore-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Bubblemeup-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Maslun-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Hawkgobbler-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Cuttah-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Voodoosniper-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Clicki-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Greybull-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Malanda-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Abluepegasus-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Swifthealz-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Candel-Windseeker	The Battle for Mount Hyjal	25
-1651627818	EP	Dannymalcom-Windseeker	The Battle for Mount Hyjal	25
-1651629049	EP	Bashuk-Windseeker	Black Temple	25
-1651629049	EP	Andrrick-Windseeker	Black Temple	25
-1651629049	EP	Dotkilla-Windseeker	Black Temple	25
-1651629049	EP	Sahna-Windseeker	Black Temple	25
-1651629049	EP	Kabbin-Windseeker	Black Temple	25
-1651629049	EP	Buddlite-Windseeker	Black Temple	25
-1651629049	EP	Gordantell-Windseeker	Black Temple	25
-1651629049	EP	Uddermadnèss-Windseeker	Black Temple	25
-1651629049	EP	Triisrawra-Windseeker	Black Temple	25
-1651629049	EP	Majila-Windseeker	Black Temple	25
-1651629049	EP	Deadliskye-Windseeker	Black Temple	25
-1651629049	EP	Ktulú-Windseeker	Black Temple	25
-1651629049	EP	Blitzcore-Windseeker	Black Temple	25
-1651629049	EP	Bubblemeup-Windseeker	Black Temple	25
-1651629049	EP	Maslun-Windseeker	Black Temple	25
-1651629049	EP	Hawkgobbler-Windseeker	Black Temple	25
-1651629049	EP	Cuttah-Windseeker	Black Temple	25
-1651629049	EP	Voodoosniper-Windseeker	Black Temple	25
-1651629049	EP	Clicki-Windseeker	Black Temple	25
-1651629049	EP	Greybull-Windseeker	Black Temple	25
-1651629049	EP	Malanda-Windseeker	Black Temple	25
-1651629049	EP	Abluepegasus-Windseeker	Black Temple	25
-1651629049	EP	Swifthealz-Windseeker	Black Temple	25
-1651629049	EP	Candel-Windseeker	Black Temple	25
-1651629049	EP	Dannymalcom-Windseeker	Black Temple	25
-1651629110	GP	Kabbin-Windseeker	[Grips of Silent Justice]	94	|cffa335ee|Hitem:32278::::::::70:::::::::|h[Grips of Silent Justice]|h|r
-1651791600	EP	Bashuk-Windseeker	Black Temple	25
-1651791600	EP	Andrrick-Windseeker	Black Temple	25
-1651791600	EP	Dotkilla-Windseeker	Black Temple	25
-1651791600	EP	Sahna-Windseeker	Black Temple	25
-1651791600	EP	Buddlite-Windseeker	Black Temple	25
-1651791600	EP	Gordantell-Windseeker	Black Temple	25
-1651791600	EP	Kabbin-Windseeker	Black Temple	25
-1651791600	EP	Uddermadnèss-Windseeker	Black Temple	25
-1651791600	EP	Majila-Windseeker	Black Temple	25
-1651791600	EP	Deadliskye-Windseeker	Black Temple	25
-1651791600	EP	Ktulú-Windseeker	Black Temple	25
-1651791600	EP	Bubblemeup-Windseeker	Black Temple	25
-1651791600	EP	Maslun-Windseeker	Black Temple	25
-1651791600	EP	Grudgelock-Windseeker	Black Temple	25
-1651791600	EP	Hawkgobbler-Windseeker	Black Temple	25
-1651791600	EP	Cuttah-Windseeker	Black Temple	25
-1651791600	EP	Voodoosniper-Windseeker	Black Temple	25
-1651791600	EP	Clicki-Windseeker	Black Temple	25
-1651791600	EP	Greybull-Windseeker	Black Temple	25
-1651791600	EP	Malanda-Windseeker	Black Temple	25
-1651791600	EP	Abluepegasus-Windseeker	Black Temple	25
-1651791600	EP	Swifthealz-Windseeker	Black Temple	25
-1651791600	EP	Candel-Windseeker	Black Temple	25
-1651791600	EP	Spirit-Windseeker	Black Temple	25
-1651791600	EP	Wazuwasol-Windseeker	Black Temple	25
-1651793066	GP	Kabbin-Windseeker	[Soul Cleaver]	252	|cffa335ee|Hitem:32348::::::::70:::::::::|h[Soul Cleaver]|h|r
-1651793400	EP	Bashuk-Windseeker	Black Temple	25
-1651793400	EP	Andrrick-Windseeker	Black Temple	25
-1651793400	EP	Dotkilla-Windseeker	Black Temple	25
-1651793400	EP	Sahna-Windseeker	Black Temple	25
-1651793400	EP	Buddlite-Windseeker	Black Temple	25
-1651793400	EP	Gordantell-Windseeker	Black Temple	25
-1651793400	EP	Uddermadnèss-Windseeker	Black Temple	25
-1651793400	EP	Majila-Windseeker	Black Temple	25
-1651793400	EP	Deadliskye-Windseeker	Black Temple	25
-1651793400	EP	Ktulú-Windseeker	Black Temple	25
-1651793400	EP	Kabbin-Windseeker	Black Temple	25
-1651793400	EP	Bubblemeup-Windseeker	Black Temple	25
-1651793400	EP	Maslun-Windseeker	Black Temple	25
-1651793400	EP	Grudgelock-Windseeker	Black Temple	25
-1651793400	EP	Hawkgobbler-Windseeker	Black Temple	25
-1651793400	EP	Cuttah-Windseeker	Black Temple	25
-1651793400	EP	Malanda-Windseeker	Black Temple	25
-1651793400	EP	Voodoosniper-Windseeker	Black Temple	25
-1651793400	EP	Clicki-Windseeker	Black Temple	25
-1651793400	EP	Greybull-Windseeker	Black Temple	25
-1651793400	EP	Abluepegasus-Windseeker	Black Temple	25
-1651793400	EP	Swifthealz-Windseeker	Black Temple	25
-1651793400	EP	Candel-Windseeker	Black Temple	25
-1651793400	EP	Spirit-Windseeker	Black Temple	25
-1651793400	EP	Wazuwasol-Windseeker	Black Temple	25
-1651794983	GP	Abluepegasus-Windseeker	[Unstoppable Aggressor's Ring]	70	|cffa335ee|Hitem:32335::::::::70:::::::::|h[Unstoppable Aggressor's Ring]|h|r
-1651795200	EP	Bashuk-Windseeker	Black Temple	25
-1651795200	EP	Andrrick-Windseeker	Black Temple	25
-1651795200	EP	Dotkilla-Windseeker	Black Temple	25
-1651795200	EP	Sahna-Windseeker	Black Temple	25
-1651795200	EP	Buddlite-Windseeker	Black Temple	25
-1651795200	EP	Gordantell-Windseeker	Black Temple	25
-1651795200	EP	Uddermadnèss-Windseeker	Black Temple	25
-1651795200	EP	Majila-Windseeker	Black Temple	25
-1651795200	EP	Deadliskye-Windseeker	Black Temple	25
-1651795200	EP	Ktulú-Windseeker	Black Temple	25
-1651795200	EP	Kabbin-Windseeker	Black Temple	25
-1651795200	EP	Bubblemeup-Windseeker	Black Temple	25
-1651795200	EP	Maslun-Windseeker	Black Temple	25
-1651795200	EP	Grudgelock-Windseeker	Black Temple	25
-1651795200	EP	Hawkgobbler-Windseeker	Black Temple	25
-1651795200	EP	Cuttah-Windseeker	Black Temple	25
-1651795200	EP	Malanda-Windseeker	Black Temple	25
-1651795200	EP	Voodoosniper-Windseeker	Black Temple	25
-1651795200	EP	Clicki-Windseeker	Black Temple	25
-1651795200	EP	Greybull-Windseeker	Black Temple	25
-1651795200	EP	Abluepegasus-Windseeker	Black Temple	25
-1651795200	EP	Swifthealz-Windseeker	Black Temple	25
-1651795200	EP	Candel-Windseeker	Black Temple	25
-1651795200	EP	Spirit-Windseeker	Black Temple	25
-1651795200	EP	Wazuwasol-Windseeker	Black Temple	25
-1651796431	GP	Voodoosniper-Windseeker	[Pauldrons of the Forgotten Protector]	375	|cffa335ee|Hitem:31103::::::::70:::::::::|h[Pauldrons of the Forgotten Protector]|h|r
-1651796436	GP	Spirit-Windseeker	[Pauldrons of the Forgotten Vanquisher]	123	|cffa335ee|Hitem:31102::::::::70:::::::::|h[Pauldrons of the Forgotten Vanquisher]|h|r
-1651797000	EP	Bashuk-Windseeker	Black Temple	25
-1651797000	EP	Andrrick-Windseeker	Black Temple	25
-1651797000	EP	Dotkilla-Windseeker	Black Temple	25
-1651797000	EP	Sahna-Windseeker	Black Temple	25
-1651797000	EP	Buddlite-Windseeker	Black Temple	25
-1651797000	EP	Gordantell-Windseeker	Black Temple	25
-1651797000	EP	Uddermadnèss-Windseeker	Black Temple	25
-1651797000	EP	Majila-Windseeker	Black Temple	25
-1651797000	EP	Deadliskye-Windseeker	Black Temple	25
-1651797000	EP	Ktulú-Windseeker	Black Temple	25
-1651797000	EP	Kabbin-Windseeker	Black Temple	25
-1651797000	EP	Bubblemeup-Windseeker	Black Temple	25
-1651797000	EP	Maslun-Windseeker	Black Temple	25
-1651797000	EP	Grudgelock-Windseeker	Black Temple	25
-1651797000	EP	Hawkgobbler-Windseeker	Black Temple	25
-1651797000	EP	Cuttah-Windseeker	Black Temple	25
-1651797000	EP	Malanda-Windseeker	Black Temple	25
-1651797000	EP	Clicki-Windseeker	Black Temple	25
-1651797000	EP	Greybull-Windseeker	Black Temple	25
-1651797000	EP	Abluepegasus-Windseeker	Black Temple	25
-1651797000	EP	Voodoosniper-Windseeker	Black Temple	25
-1651797000	EP	Swifthealz-Windseeker	Black Temple	25
-1651797000	EP	Candel-Windseeker	Black Temple	25
-1651797000	EP	Spirit-Windseeker	Black Temple	25
-1651797000	EP	Wazuwasol-Windseeker	Black Temple	25
-1651797871	GP	Abluepegasus-Windseeker	[Leggings of the Forgotten Protector]	500	|cffa335ee|Hitem:31100::::::::70:::::::::|h[Leggings of the Forgotten Protector]|h|r
-1651797874	GP	Spirit-Windseeker	[Leggings of the Forgotten Vanquisher]	500	|cffa335ee|Hitem:31099::::::::70:::::::::|h[Leggings of the Forgotten Vanquisher]|h|r
-1651797940	GP	Spirit-Windseeker	[Leggings of the Forgotten Vanquisher]	-500	|cffa335ee|Hitem:31099::::::::70:::::::::|h[Leggings of the Forgotten Vanquisher]|h|r
-1651797941	GP	Spirit-Windseeker	[Leggings of the Forgotten Vanquisher]	165	|cffa335ee|Hitem:31099::::::::70:::::::::|h[Leggings of the Forgotten Vanquisher]|h|r
-1651798700	GP	Buddlite-Windseeker	[Crystal Spire of Karabor]	979	|cffa335ee|Hitem:32500::::::::70:::::::::|h[Crystal Spire of Karabor]|h|r
-1651798710	GP	Andrrick-Windseeker	[Cursed Vision of Sargeras]	653	|cffa335ee|Hitem:32235::::::::70:::::::::|h[Cursed Vision of Sargeras]|h|r
-1651798714	GP	Grudgelock-Windseeker	[Chestguard of the Forgotten Conqueror]	500	|cffa335ee|Hitem:31089::::::::70:::::::::|h[Chestguard of the Forgotten Conqueror]|h|r
-1651798721	GP	Clicki-Windseeker	[Chestguard of the Forgotten Protector]	500	|cffa335ee|Hitem:31091::::::::70:::::::::|h[Chestguard of the Forgotten Protector]|h|r
-1651798785	EP	Bashuk-Windseeker	Black Temple	50
-1651798785	EP	Dotkilla-Windseeker	Black Temple	50
-1651798785	EP	Sahna-Windseeker	Black Temple	50
-1651798785	EP	Gordantell-Windseeker	Black Temple	50
-1651798785	EP	Uddermadnèss-Windseeker	Black Temple	50
-1651798785	EP	Andrrick-Windseeker	Black Temple	50
-1651798785	EP	Majila-Windseeker	Black Temple	50
-1651798785	EP	Deadliskye-Windseeker	Black Temple	50
-1651798785	EP	Ktulú-Windseeker	Black Temple	50
-1651798785	EP	Kabbin-Windseeker	Black Temple	50
-1651798785	EP	Bubblemeup-Windseeker	Black Temple	50
-1651798785	EP	Maslun-Windseeker	Black Temple	50
-1651798785	EP	Buddlite-Windseeker	Black Temple	50
-1651798785	EP	Hawkgobbler-Windseeker	Black Temple	50
-1651798785	EP	Malanda-Windseeker	Black Temple	50
-1651798785	EP	Cuttah-Windseeker	Black Temple	50
-1651798785	EP	Greybull-Windseeker	Black Temple	50
-1651798785	EP	Voodoosniper-Windseeker	Black Temple	50
-1651798785	EP	Grudgelock-Windseeker	Black Temple	50
-1651798785	EP	Clicki-Windseeker	Black Temple	50
-1651798785	EP	Abluepegasus-Windseeker	Black Temple	50
-1651798785	EP	Candel-Windseeker	Black Temple	50
-1651798785	EP	Spirit-Windseeker	Black Temple	50
-1651798785	EP	Wazuwasol-Windseeker	Black Temple	50
-1651798792	EP	Bashuk-Windseeker	Black Temple	25
-1651798792	EP	Dotkilla-Windseeker	Black Temple	25
-1651798792	EP	Sahna-Windseeker	Black Temple	25
-1651798792	EP	Gordantell-Windseeker	Black Temple	25
-1651798792	EP	Uddermadnèss-Windseeker	Black Temple	25
-1651798792	EP	Andrrick-Windseeker	Black Temple	25
-1651798792	EP	Majila-Windseeker	Black Temple	25
-1651798792	EP	Deadliskye-Windseeker	Black Temple	25
-1651798792	EP	Ktulú-Windseeker	Black Temple	25
-1651798792	EP	Kabbin-Windseeker	Black Temple	25
-1651798792	EP	Bubblemeup-Windseeker	Black Temple	25
-1651798792	EP	Maslun-Windseeker	Black Temple	25
-1651798792	EP	Malanda-Windseeker	Black Temple	25
-1651798792	EP	Buddlite-Windseeker	Black Temple	25
-1651798792	EP	Hawkgobbler-Windseeker	Black Temple	25
-1651798792	EP	Cuttah-Windseeker	Black Temple	25
-1651798792	EP	Greybull-Windseeker	Black Temple	25
-1651798792	EP	Voodoosniper-Windseeker	Black Temple	25
-1651798792	EP	Grudgelock-Windseeker	Black Temple	25
-1651798792	EP	Clicki-Windseeker	Black Temple	25
-1651798792	EP	Abluepegasus-Windseeker	Black Temple	25
-1651798792	EP	Candel-Windseeker	Black Temple	25
-1651798792	EP	Spirit-Windseeker	Black Temple	25
-1651798792	EP	Wazuwasol-Windseeker	Black Temple	25
-1651800097	GP	Greybull-Windseeker	[Dragonspine Trophy]	204	|cffa335ee|Hitem:28830::::::::70:::::::::|h[Dragonspine Trophy]|h|r
-1651800550	GP	Buddlite-Windseeker	[Crystal Spire of Karabor]	-979	|cffa335ee|Hitem:32500::::::::70:::::::::|h[Crystal Spire of Karabor]|h|r
-1651800558	GP	Majila-Windseeker	[Crystal Spire of Karabor]	979	|cffa335ee|Hitem:32500::::::::70:::::::::|h[Crystal Spire of Karabor]|h|r
 1652222588	EP	Dannymalcom-Windseeker	Decay 8%	-46
 1652222588	GP	Dannymalcom-Windseeker	Decay 8%	-95
 1652222588	EP	Spirit-Windseeker	Decay 8%	-151
@@ -1892,3 +1400,541 @@ Malanda-Windseeker	1726	1028	WARLOCK
 1653615298	EP	Wazuwasol-Windseeker	Gruul's Lair	25
 1653615298	EP	Apecharm-Windseeker	Gruul's Lair	25
 1653615351	EP	Dotkilla-Windseeker	Gruul's Lair	25
+1654037411	EP	Spirit-Windseeker	Decay 8%	-195
+1654037411	GP	Spirit-Windseeker	Decay 8%	-242
+1654037411	EP	Abluepegasus-Windseeker	Decay 8%	-370
+1654037411	GP	Abluepegasus-Windseeker	Decay 8%	-322
+1654037411	EP	Maslun-Windseeker	Decay 8%	-376
+1654037411	GP	Maslun-Windseeker	Decay 8%	-259
+1654037411	EP	Kilola-Windseeker	Decay 8%	-190
+1654037411	GP	Kilola-Windseeker	Decay 8%	-100
+1654037411	EP	Grudgelock-Windseeker	Decay 8%	-226
+1654037411	GP	Grudgelock-Windseeker	Decay 8%	-182
+1654037411	EP	Buddlite-Windseeker	Decay 8%	-361
+1654037411	GP	Buddlite-Windseeker	Decay 8%	-306
+1654037411	EP	Dotkilla-Windseeker	Decay 8%	-370
+1654037411	GP	Dotkilla-Windseeker	Decay 8%	-227
+1654037411	EP	Majila-Windseeker	Decay 8%	-376
+1654037411	GP	Majila-Windseeker	Decay 8%	-308
+1654037411	EP	Kabbin-Windseeker	Decay 8%	-170
+1654037411	GP	Kabbin-Windseeker	Decay 8%	-76
+1654037411	EP	Hawkgobbler-Windseeker	Decay 8%	-224
+1654037411	GP	Hawkgobbler-Windseeker	Decay 8%	-162
+1654037411	EP	Roand-Windseeker	Decay 8%	-243
+1654037411	GP	Roand-Windseeker	Decay 8%	-282
+1654037411	EP	Uddermadnèss-Windseeker	Decay 8%	-356
+1654037411	GP	Uddermadnèss-Windseeker	Decay 8%	-161
+1654037411	EP	Apecharm-Windseeker	Decay 8%	-110
+1654037411	GP	Apecharm-Windseeker	Decay 8%	-315
+1654037411	EP	Deadliskye-Windseeker	Decay 8%	-352
+1654037411	GP	Deadliskye-Windseeker	Decay 8%	-246
+1654037411	EP	Bêlch-Windseeker	Decay 8%	-28
+1654037411	GP	Bêlch-Windseeker	Decay 8%	-38
+1654037411	EP	Greybull-Windseeker	Decay 8%	-309
+1654037411	GP	Greybull-Windseeker	Decay 8%	-340
+1654037411	EP	Ozymandius-Windseeker	Decay 8%	-2
+1654037411	EP	Gordantell-Windseeker	Decay 8%	-376
+1654037411	GP	Gordantell-Windseeker	Decay 8%	-260
+1654037411	EP	Inabua-Windseeker	Decay 8%	-5
+1654037411	GP	Inabua-Windseeker	Decay 8%	-12
+1654037411	EP	Cuttah-Windseeker	Decay 8%	-326
+1654037411	GP	Cuttah-Windseeker	Decay 8%	-221
+1654037411	EP	Bashuk-Windseeker	Decay 8%	-355
+1654037411	GP	Bashuk-Windseeker	Decay 8%	-75
+1654037411	EP	Andrrick-Windseeker	Decay 8%	-356
+1654037411	GP	Andrrick-Windseeker	Decay 8%	-159
+1654037411	EP	Wazuwasol-Windseeker	Decay 8%	-80
+1654037411	GP	Wazuwasol-Windseeker	Decay 8%	-223
+1654037411	EP	Greyghostt-Windseeker	Decay 8%	-25
+1654037411	GP	Greyghostt-Windseeker	Decay 8%	-11
+1654037411	EP	Ktulú-Windseeker	Decay 8%	-357
+1654037411	GP	Ktulú-Windseeker	Decay 8%	-171
+1654037411	EP	Joeydjia-Windseeker	Decay 8%	-1
+1654037411	EP	Swifthealz-Windseeker	Decay 8%	-297
+1654037411	GP	Swifthealz-Windseeker	Decay 8%	-236
+1654037411	EP	Voodoosniper-Windseeker	Decay 8%	-288
+1654037411	GP	Voodoosniper-Windseeker	Decay 8%	-222
+1654037411	EP	Triisrawra-Windseeker	Decay 8%	-355
+1654037411	GP	Triisrawra-Windseeker	Decay 8%	-202
+1654037411	EP	Clicki-Windseeker	Decay 8%	-299
+1654037411	GP	Clicki-Windseeker	Decay 8%	-242
+1654037411	EP	Blitzcore-Windseeker	Decay 8%	-301
+1654037411	GP	Blitzcore-Windseeker	Decay 8%	-215
+1654037411	EP	Bubblemeup-Windseeker	Decay 8%	-345
+1654037411	GP	Bubblemeup-Windseeker	Decay 8%	-288
+1654037411	EP	Candel-Windseeker	Decay 8%	-257
+1654037411	GP	Candel-Windseeker	Decay 8%	-241
+1654037411	EP	Malanda-Windseeker	Decay 8%	-139
+1654037411	GP	Malanda-Windseeker	Decay 8%	-91
+1654038022	EP	Bashuk-Windseeker	Black Temple	25
+1654038022	EP	Andrrick-Windseeker	Black Temple	25
+1654038022	EP	Uddermadnèss-Windseeker	Black Temple	25
+1654038022	EP	Ktulú-Windseeker	Black Temple	25
+1654038022	EP	Kilola-Windseeker	Black Temple	25
+1654038022	EP	Triisrawra-Windseeker	Black Temple	25
+1654038022	EP	Dotkilla-Windseeker	Black Temple	25
+1654038022	EP	Malanda-Windseeker	Black Temple	25
+1654038022	EP	Cuttah-Windseeker	Black Temple	25
+1654038022	EP	Gordantell-Windseeker	Black Temple	25
+1654038022	EP	Deadliskye-Windseeker	Black Temple	25
+1654038022	EP	Hawkgobbler-Windseeker	Black Temple	25
+1654038022	EP	Voodoosniper-Windseeker	Black Temple	25
+1654038022	EP	Swifthealz-Windseeker	Black Temple	25
+1654038022	EP	Grudgelock-Windseeker	Black Temple	25
+1654038022	EP	Majila-Windseeker	Black Temple	25
+1654038022	EP	Bubblemeup-Windseeker	Black Temple	25
+1654038022	EP	Buddlite-Windseeker	Black Temple	25
+1654038022	EP	Abluepegasus-Windseeker	Black Temple	25
+1654038022	EP	Greybull-Windseeker	Black Temple	25
+1654038022	EP	Spirit-Windseeker	Black Temple	25
+1654038022	EP	Wazuwasol-Windseeker	Black Temple	25
+1654038022	EP	Knockhed-Windseeker	Black Temple	25
+1654039280	GP	Bubblemeup-Windseeker	[Eternium Shell Bracers]	214	|cffa335ee|Hitem:32232::::::::70:::::::::|h[Eternium Shell Bracers]|h|r
+1654039285	GP	Kilola-Windseeker	[Slippers of the Seacaller]	287	|cffa335ee|Hitem:32239::::::::70:::::::::|h[Slippers of the Seacaller]|h|r
+1654039823	EP	Bashuk-Windseeker	Black Temple	25
+1654039823	EP	Andrrick-Windseeker	Black Temple	25
+1654039823	EP	Uddermadnèss-Windseeker	Black Temple	25
+1654039823	EP	Ktulú-Windseeker	Black Temple	25
+1654039823	EP	Triisrawra-Windseeker	Black Temple	25
+1654039823	EP	Dotkilla-Windseeker	Black Temple	25
+1654039823	EP	Malanda-Windseeker	Black Temple	25
+1654039823	EP	Kilola-Windseeker	Black Temple	25
+1654039823	EP	Cuttah-Windseeker	Black Temple	25
+1654039823	EP	Gordantell-Windseeker	Black Temple	25
+1654039823	EP	Deadliskye-Windseeker	Black Temple	25
+1654039823	EP	Blitzcore-Windseeker	Black Temple	25
+1654039823	EP	Hawkgobbler-Windseeker	Black Temple	25
+1654039823	EP	Voodoosniper-Windseeker	Black Temple	25
+1654039823	EP	Swifthealz-Windseeker	Black Temple	25
+1654039823	EP	Grudgelock-Windseeker	Black Temple	25
+1654039823	EP	Majila-Windseeker	Black Temple	25
+1654039823	EP	Buddlite-Windseeker	Black Temple	25
+1654039823	EP	Abluepegasus-Windseeker	Black Temple	25
+1654039823	EP	Bubblemeup-Windseeker	Black Temple	25
+1654039823	EP	Greybull-Windseeker	Black Temple	25
+1654039823	EP	Roand-Windseeker	Black Temple	25
+1654039823	EP	Spirit-Windseeker	Black Temple	25
+1654039823	EP	Wazuwasol-Windseeker	Black Temple	25
+1654039823	EP	Knockhed-Windseeker	Black Temple	25
+1654040340	GP	Knockhed-Windseeker	[Nether Shadow Tunic]	383	|cffa335ee|Hitem:32252::::::::70:::::::::|h[Nether Shadow Tunic]|h|r
+1654040344	GP	Deadliskye-Windseeker	[Waistwrap of Infinity]	287	|cffa335ee|Hitem:32256::::::::70:::::::::|h[Waistwrap of Infinity]|h|r
+1654040369	GP	Deadliskye-Windseeker	[Waistwrap of Infinity]	-287	|cffa335ee|Hitem:32256::::::::70:::::::::|h[Waistwrap of Infinity]|h|r
+1654041058	GP	Spirit-Windseeker	[Waistwrap of Infinity]	287	|cffa335ee|Hitem:32256::::::::70:::::::::|h[Waistwrap of Infinity]|h|r
+1654041469	GP	Voodoosniper-Windseeker	[Ring of Deceitful Intent]	214	|cffa335ee|Hitem:32266::::::::70:::::::::|h[Ring of Deceitful Intent]|h|r
+1654041623	EP	Andrrick-Windseeker	Black Temple	25
+1654041623	EP	Uddermadnèss-Windseeker	Black Temple	25
+1654041623	EP	Ktulú-Windseeker	Black Temple	25
+1654041623	EP	Triisrawra-Windseeker	Black Temple	25
+1654041623	EP	Dotkilla-Windseeker	Black Temple	25
+1654041623	EP	Malanda-Windseeker	Black Temple	25
+1654041623	EP	Kilola-Windseeker	Black Temple	25
+1654041623	EP	Cuttah-Windseeker	Black Temple	25
+1654041623	EP	Gordantell-Windseeker	Black Temple	25
+1654041623	EP	Deadliskye-Windseeker	Black Temple	25
+1654041623	EP	Blitzcore-Windseeker	Black Temple	25
+1654041623	EP	Hawkgobbler-Windseeker	Black Temple	25
+1654041623	EP	Swifthealz-Windseeker	Black Temple	25
+1654041623	EP	Grudgelock-Windseeker	Black Temple	25
+1654041623	EP	Majila-Windseeker	Black Temple	25
+1654041623	EP	Voodoosniper-Windseeker	Black Temple	25
+1654041623	EP	Buddlite-Windseeker	Black Temple	25
+1654041623	EP	Abluepegasus-Windseeker	Black Temple	25
+1654041623	EP	Bubblemeup-Windseeker	Black Temple	25
+1654041623	EP	Greybull-Windseeker	Black Temple	25
+1654041623	EP	Roand-Windseeker	Black Temple	25
+1654041623	EP	Spirit-Windseeker	Black Temple	25
+1654041623	EP	Wazuwasol-Windseeker	Black Temple	25
+1654041623	EP	Apecharm-Windseeker	Black Temple	25
+1654041623	EP	Knockhed-Windseeker	Black Temple	25
+1654041623	EP	Bashuk-Windseeker	Black Temple - Standby	25
+1654042714	GP	Roand-Windseeker	[Soul Cleaver]	766	|cffa335ee|Hitem:32348::::::::70:::::::::|h[Soul Cleaver]|h|r
+1654042725	GP	Gordantell-Windseeker	[Insidious Bands]	214	|cffa335ee|Hitem:32324::::::::70:::::::::|h[Insidious Bands]|h|r
+1654043423	EP	Andrrick-Windseeker	Black Temple	25
+1654043423	EP	Uddermadnèss-Windseeker	Black Temple	25
+1654043423	EP	Ktulú-Windseeker	Black Temple	25
+1654043423	EP	Triisrawra-Windseeker	Black Temple	25
+1654043423	EP	Dotkilla-Windseeker	Black Temple	25
+1654043423	EP	Malanda-Windseeker	Black Temple	25
+1654043423	EP	Kilola-Windseeker	Black Temple	25
+1654043423	EP	Cuttah-Windseeker	Black Temple	25
+1654043423	EP	Deadliskye-Windseeker	Black Temple	25
+1654043423	EP	Hawkgobbler-Windseeker	Black Temple	25
+1654043423	EP	Blitzcore-Windseeker	Black Temple	25
+1654043423	EP	Gordantell-Windseeker	Black Temple	25
+1654043423	EP	Swifthealz-Windseeker	Black Temple	25
+1654043423	EP	Grudgelock-Windseeker	Black Temple	25
+1654043423	EP	Majila-Windseeker	Black Temple	25
+1654043423	EP	Voodoosniper-Windseeker	Black Temple	25
+1654043423	EP	Buddlite-Windseeker	Black Temple	25
+1654043423	EP	Abluepegasus-Windseeker	Black Temple	25
+1654043423	EP	Bubblemeup-Windseeker	Black Temple	25
+1654043423	EP	Greybull-Windseeker	Black Temple	25
+1654043423	EP	Spirit-Windseeker	Black Temple	25
+1654043423	EP	Roand-Windseeker	Black Temple	25
+1654043423	EP	Wazuwasol-Windseeker	Black Temple	25
+1654043423	EP	Apecharm-Windseeker	Black Temple	25
+1654043423	EP	Knockhed-Windseeker	Black Temple	25
+1654043954	GP	Roand-Windseeker	[Torch of the Damned]	766	|cffa335ee|Hitem:32332::::::::70:::::::::|h[Torch of the Damned]|h|r
+1654044897	GP	Malanda-Windseeker	[Blood-cursed Shoulderpads]	287	|cffa335ee|Hitem:32338::::::::70:::::::::|h[Blood-cursed Shoulderpads]|h|r
+1654044902	GP	Bubblemeup-Windseeker	[Girdle of Stability]	287	|cffa335ee|Hitem:32333::::::::70:::::::::|h[Girdle of Stability]|h|r
+1654045223	EP	Andrrick-Windseeker	Black Temple	25
+1654045223	EP	Uddermadnèss-Windseeker	Black Temple	25
+1654045223	EP	Ktulú-Windseeker	Black Temple	25
+1654045223	EP	Triisrawra-Windseeker	Black Temple	25
+1654045223	EP	Dotkilla-Windseeker	Black Temple	25
+1654045223	EP	Kilola-Windseeker	Black Temple	25
+1654045223	EP	Cuttah-Windseeker	Black Temple	25
+1654045223	EP	Deadliskye-Windseeker	Black Temple	25
+1654045223	EP	Hawkgobbler-Windseeker	Black Temple	25
+1654045223	EP	Blitzcore-Windseeker	Black Temple	25
+1654045223	EP	Gordantell-Windseeker	Black Temple	25
+1654045223	EP	Swifthealz-Windseeker	Black Temple	25
+1654045223	EP	Grudgelock-Windseeker	Black Temple	25
+1654045223	EP	Malanda-Windseeker	Black Temple	25
+1654045223	EP	Majila-Windseeker	Black Temple	25
+1654045223	EP	Voodoosniper-Windseeker	Black Temple	25
+1654045223	EP	Buddlite-Windseeker	Black Temple	25
+1654045223	EP	Abluepegasus-Windseeker	Black Temple	25
+1654045223	EP	Bubblemeup-Windseeker	Black Temple	25
+1654045223	EP	Greybull-Windseeker	Black Temple	25
+1654045223	EP	Spirit-Windseeker	Black Temple	25
+1654045223	EP	Roand-Windseeker	Black Temple	25
+1654045223	EP	Wazuwasol-Windseeker	Black Temple	25
+1654045223	EP	Apecharm-Windseeker	Black Temple	25
+1654045223	EP	Knockhed-Windseeker	Black Temple	25
+1654045672	GP	Apecharm-Windseeker	[Blessed Band of Karabor]	366	|cffa335ee|Hitem:32528::::::::70:::::::::|h[Blessed Band of Karabor]|h|r
+1654045807	GP	Majila-Windseeker	[Blessed Band of Karabor]	366	|cffa335ee|Hitem:32528::::::::70:::::::::|h[Blessed Band of Karabor]|h|r
+1654047023	EP	Andrrick-Windseeker	Black Temple	25
+1654047023	EP	Uddermadnèss-Windseeker	Black Temple	25
+1654047023	EP	Ktulú-Windseeker	Black Temple	25
+1654047023	EP	Triisrawra-Windseeker	Black Temple	25
+1654047023	EP	Dotkilla-Windseeker	Black Temple	25
+1654047023	EP	Kilola-Windseeker	Black Temple	25
+1654047023	EP	Cuttah-Windseeker	Black Temple	25
+1654047023	EP	Deadliskye-Windseeker	Black Temple	25
+1654047023	EP	Hawkgobbler-Windseeker	Black Temple	25
+1654047023	EP	Blitzcore-Windseeker	Black Temple	25
+1654047023	EP	Gordantell-Windseeker	Black Temple	25
+1654047023	EP	Swifthealz-Windseeker	Black Temple	25
+1654047023	EP	Grudgelock-Windseeker	Black Temple	25
+1654047023	EP	Malanda-Windseeker	Black Temple	25
+1654047023	EP	Voodoosniper-Windseeker	Black Temple	25
+1654047023	EP	Buddlite-Windseeker	Black Temple	25
+1654047023	EP	Abluepegasus-Windseeker	Black Temple	25
+1654047023	EP	Majila-Windseeker	Black Temple	25
+1654047023	EP	Bubblemeup-Windseeker	Black Temple	25
+1654047023	EP	Greybull-Windseeker	Black Temple	25
+1654047023	EP	Spirit-Windseeker	Black Temple	25
+1654047023	EP	Roand-Windseeker	Black Temple	25
+1654047023	EP	Wazuwasol-Windseeker	Black Temple	25
+1654047023	EP	Apecharm-Windseeker	Black Temple	25
+1654047023	EP	Knockhed-Windseeker	Black Temple	25
+1654048318	GP	Malanda-Windseeker	[Pauldrons of the Forgotten Conqueror]	375	|cffa335ee|Hitem:31101::::::::70:::::::::|h[Pauldrons of the Forgotten Conqueror]|h|r
+1654048393	EP	Andrrick-Windseeker	Black Temple	25
+1654048393	EP	Uddermadnèss-Windseeker	Black Temple	25
+1654048393	EP	Ktulú-Windseeker	Black Temple	25
+1654048393	EP	Triisrawra-Windseeker	Black Temple	25
+1654048393	EP	Dotkilla-Windseeker	Black Temple	25
+1654048393	EP	Kilola-Windseeker	Black Temple	25
+1654048393	EP	Cuttah-Windseeker	Black Temple	25
+1654048393	EP	Deadliskye-Windseeker	Black Temple	25
+1654048393	EP	Hawkgobbler-Windseeker	Black Temple	25
+1654048393	EP	Blitzcore-Windseeker	Black Temple	25
+1654048393	EP	Gordantell-Windseeker	Black Temple	25
+1654048393	EP	Grudgelock-Windseeker	Black Temple	25
+1654048393	EP	Swifthealz-Windseeker	Black Temple	25
+1654048393	EP	Voodoosniper-Windseeker	Black Temple	25
+1654048393	EP	Buddlite-Windseeker	Black Temple	25
+1654048393	EP	Abluepegasus-Windseeker	Black Temple	25
+1654048393	EP	Majila-Windseeker	Black Temple	25
+1654048393	EP	Bubblemeup-Windseeker	Black Temple	25
+1654048393	EP	Malanda-Windseeker	Black Temple	25
+1654048393	EP	Greybull-Windseeker	Black Temple	25
+1654048393	EP	Spirit-Windseeker	Black Temple	25
+1654048393	EP	Roand-Windseeker	Black Temple	25
+1654048393	EP	Wazuwasol-Windseeker	Black Temple	25
+1654048393	EP	Apecharm-Windseeker	Black Temple	25
+1654048393	EP	Knockhed-Windseeker	Black Temple	25
+1654048433	GP	Malanda-Windseeker	[Blood-cursed Shoulderpads]	-287	|cffa335ee|Hitem:32338::::::::70:::::::::|h[Blood-cursed Shoulderpads]|h|r
+1654048446	GP	Wazuwasol-Windseeker	[Blood-cursed Shoulderpads]	287	|cffa335ee|Hitem:32338::::::::70:::::::::|h[Blood-cursed Shoulderpads]|h|r
+1654210812	EP	Bashuk-Windseeker	Black Temple	25
+1654210812	EP	Andrrick-Windseeker	Black Temple	25
+1654210812	EP	Uddermadnèss-Windseeker	Black Temple	25
+1654210812	EP	Ktulú-Windseeker	Black Temple	25
+1654210812	EP	Triisrawra-Windseeker	Black Temple	25
+1654210812	EP	Dotkilla-Windseeker	Black Temple	25
+1654210812	EP	Kilola-Windseeker	Black Temple	25
+1654210812	EP	Cuttah-Windseeker	Black Temple	25
+1654210812	EP	Deadliskye-Windseeker	Black Temple	25
+1654210812	EP	Blitzcore-Windseeker	Black Temple	25
+1654210812	EP	Maslun-Windseeker	Black Temple	25
+1654210812	EP	Gordantell-Windseeker	Black Temple	25
+1654210812	EP	Grudgelock-Windseeker	Black Temple	25
+1654210812	EP	Voodoosniper-Windseeker	Black Temple	25
+1654210812	EP	Malanda-Windseeker	Black Temple	25
+1654210812	EP	Buddlite-Windseeker	Black Temple	25
+1654210812	EP	Abluepegasus-Windseeker	Black Temple	25
+1654210812	EP	Majila-Windseeker	Black Temple	25
+1654210812	EP	Bubblemeup-Windseeker	Black Temple	25
+1654210812	EP	Greybull-Windseeker	Black Temple	25
+1654210812	EP	Roand-Windseeker	Black Temple	25
+1654210812	EP	Wazuwasol-Windseeker	Black Temple	25
+1654210812	EP	Apecharm-Windseeker	Black Temple	25
+1654210812	EP	Knockhed-Windseeker	Black Temple	25
+1654210812	EP	Milkthedvein-Windseeker	Black Temple	25
+1654212613	EP	Bashuk-Windseeker	Black Temple	25
+1654212613	EP	Andrrick-Windseeker	Black Temple	25
+1654212613	EP	Uddermadnèss-Windseeker	Black Temple	25
+1654212613	EP	Ktulú-Windseeker	Black Temple	25
+1654212613	EP	Triisrawra-Windseeker	Black Temple	25
+1654212613	EP	Dotkilla-Windseeker	Black Temple	25
+1654212613	EP	Kilola-Windseeker	Black Temple	25
+1654212613	EP	Cuttah-Windseeker	Black Temple	25
+1654212613	EP	Deadliskye-Windseeker	Black Temple	25
+1654212613	EP	Hawkgobbler-Windseeker	Black Temple	25
+1654212613	EP	Blitzcore-Windseeker	Black Temple	25
+1654212613	EP	Maslun-Windseeker	Black Temple	25
+1654212613	EP	Gordantell-Windseeker	Black Temple	25
+1654212613	EP	Grudgelock-Windseeker	Black Temple	25
+1654212613	EP	Voodoosniper-Windseeker	Black Temple	25
+1654212613	EP	Malanda-Windseeker	Black Temple	25
+1654212613	EP	Buddlite-Windseeker	Black Temple	25
+1654212613	EP	Abluepegasus-Windseeker	Black Temple	25
+1654212613	EP	Majila-Windseeker	Black Temple	25
+1654212613	EP	Bubblemeup-Windseeker	Black Temple	25
+1654212613	EP	Greybull-Windseeker	Black Temple	25
+1654212613	EP	Roand-Windseeker	Black Temple	25
+1654212613	EP	Wazuwasol-Windseeker	Black Temple	25
+1654212613	EP	Apecharm-Windseeker	Black Temple	25
+1654212613	EP	Knockhed-Windseeker	Black Temple	25
+1654212613	EP	Milkthedvein-Windseeker	Black Temple	25
+1654214413	EP	Bashuk-Windseeker	Black Temple	25
+1654214413	EP	Andrrick-Windseeker	Black Temple	25
+1654214413	EP	Uddermadnèss-Windseeker	Black Temple	25
+1654214413	EP	Ktulú-Windseeker	Black Temple	25
+1654214413	EP	Triisrawra-Windseeker	Black Temple	25
+1654214413	EP	Dotkilla-Windseeker	Black Temple	25
+1654214413	EP	Kilola-Windseeker	Black Temple	25
+1654214413	EP	Cuttah-Windseeker	Black Temple	25
+1654214413	EP	Deadliskye-Windseeker	Black Temple	25
+1654214413	EP	Hawkgobbler-Windseeker	Black Temple	25
+1654214413	EP	Blitzcore-Windseeker	Black Temple	25
+1654214413	EP	Maslun-Windseeker	Black Temple	25
+1654214413	EP	Gordantell-Windseeker	Black Temple	25
+1654214413	EP	Grudgelock-Windseeker	Black Temple	25
+1654214413	EP	Malanda-Windseeker	Black Temple	25
+1654214413	EP	Voodoosniper-Windseeker	Black Temple	25
+1654214413	EP	Buddlite-Windseeker	Black Temple	25
+1654214413	EP	Abluepegasus-Windseeker	Black Temple	25
+1654214413	EP	Majila-Windseeker	Black Temple	25
+1654214413	EP	Bubblemeup-Windseeker	Black Temple	25
+1654214413	EP	Greybull-Windseeker	Black Temple	25
+1654214413	EP	Roand-Windseeker	Black Temple	25
+1654214413	EP	Wazuwasol-Windseeker	Black Temple	25
+1654214413	EP	Apecharm-Windseeker	Black Temple	25
+1654214413	EP	Milkthedvein-Windseeker	Black Temple	25
+1654214413	EP	Knockhed-Windseeker	Black Temple	25
+1654216213	EP	Bashuk-Windseeker	Black Temple	25
+1654216213	EP	Andrrick-Windseeker	Black Temple	25
+1654216213	EP	Uddermadnèss-Windseeker	Black Temple	25
+1654216213	EP	Ktulú-Windseeker	Black Temple	25
+1654216213	EP	Triisrawra-Windseeker	Black Temple	25
+1654216213	EP	Dotkilla-Windseeker	Black Temple	25
+1654216213	EP	Kilola-Windseeker	Black Temple	25
+1654216213	EP	Cuttah-Windseeker	Black Temple	25
+1654216213	EP	Deadliskye-Windseeker	Black Temple	25
+1654216213	EP	Hawkgobbler-Windseeker	Black Temple	25
+1654216213	EP	Blitzcore-Windseeker	Black Temple	25
+1654216213	EP	Maslun-Windseeker	Black Temple	25
+1654216213	EP	Gordantell-Windseeker	Black Temple	25
+1654216213	EP	Grudgelock-Windseeker	Black Temple	25
+1654216213	EP	Malanda-Windseeker	Black Temple	25
+1654216213	EP	Voodoosniper-Windseeker	Black Temple	25
+1654216213	EP	Buddlite-Windseeker	Black Temple	25
+1654216213	EP	Abluepegasus-Windseeker	Black Temple	25
+1654216213	EP	Majila-Windseeker	Black Temple	25
+1654216213	EP	Bubblemeup-Windseeker	Black Temple	25
+1654216213	EP	Greybull-Windseeker	Black Temple	25
+1654216213	EP	Roand-Windseeker	Black Temple	25
+1654216213	EP	Wazuwasol-Windseeker	Black Temple	25
+1654216213	EP	Apecharm-Windseeker	Black Temple	25
+1654216213	EP	Milkthedvein-Windseeker	Black Temple	25
+1654216213	EP	Knockhed-Windseeker	Black Temple	25
+1654217140	GP	Wazuwasol-Windseeker	[Leggings of the Forgotten Conqueror]	500	|cffa335ee|Hitem:31098::::::::70:::::::::|h[Leggings of the Forgotten Conqueror]|h|r
+1654217145	GP	Blitzcore-Windseeker	[Leggings of the Forgotten Protector]	500	|cffa335ee|Hitem:31100::::::::70:::::::::|h[Leggings of the Forgotten Protector]|h|r
+1654217153	GP	Milkthedvein-Windseeker	[Leggings of the Forgotten Vanquisher]	500	|cffa335ee|Hitem:31099::::::::70:::::::::|h[Leggings of the Forgotten Vanquisher]|h|r
+1654217169	GP	Uddermadnèss-Windseeker	[Madness of the Betrayer]	479	|cffa335ee|Hitem:32505::::::::70:::::::::|h[Madness of the Betrayer]|h|r
+1654218013	EP	Bashuk-Windseeker	Black Temple	25
+1654218013	EP	Andrrick-Windseeker	Black Temple	25
+1654218013	EP	Ktulú-Windseeker	Black Temple	25
+1654218013	EP	Triisrawra-Windseeker	Black Temple	25
+1654218013	EP	Uddermadnèss-Windseeker	Black Temple	25
+1654218013	EP	Dotkilla-Windseeker	Black Temple	25
+1654218013	EP	Kilola-Windseeker	Black Temple	25
+1654218013	EP	Cuttah-Windseeker	Black Temple	25
+1654218013	EP	Deadliskye-Windseeker	Black Temple	25
+1654218013	EP	Hawkgobbler-Windseeker	Black Temple	25
+1654218013	EP	Maslun-Windseeker	Black Temple	25
+1654218013	EP	Gordantell-Windseeker	Black Temple	25
+1654218013	EP	Grudgelock-Windseeker	Black Temple	25
+1654218013	EP	Malanda-Windseeker	Black Temple	25
+1654218013	EP	Voodoosniper-Windseeker	Black Temple	25
+1654218013	EP	Buddlite-Windseeker	Black Temple	25
+1654218013	EP	Blitzcore-Windseeker	Black Temple	25
+1654218013	EP	Abluepegasus-Windseeker	Black Temple	25
+1654218013	EP	Majila-Windseeker	Black Temple	25
+1654218013	EP	Bubblemeup-Windseeker	Black Temple	25
+1654218013	EP	Greybull-Windseeker	Black Temple	25
+1654218013	EP	Roand-Windseeker	Black Temple	25
+1654218013	EP	Apecharm-Windseeker	Black Temple	25
+1654218013	EP	Wazuwasol-Windseeker	Black Temple	25
+1654218013	EP	Knockhed-Windseeker	Black Temple	25
+1654218013	EP	Milkthedvein-Windseeker	Black Temple	25
+1654219813	EP	Bashuk-Windseeker	Black Temple	25
+1654219813	EP	Andrrick-Windseeker	Black Temple	25
+1654219813	EP	Ktulú-Windseeker	Black Temple	25
+1654219813	EP	Triisrawra-Windseeker	Black Temple	25
+1654219813	EP	Uddermadnèss-Windseeker	Black Temple	25
+1654219813	EP	Dotkilla-Windseeker	Black Temple	25
+1654219813	EP	Kilola-Windseeker	Black Temple	25
+1654219813	EP	Cuttah-Windseeker	Black Temple	25
+1654219813	EP	Deadliskye-Windseeker	Black Temple	25
+1654219813	EP	Hawkgobbler-Windseeker	Black Temple	25
+1654219813	EP	Maslun-Windseeker	Black Temple	25
+1654219813	EP	Gordantell-Windseeker	Black Temple	25
+1654219813	EP	Grudgelock-Windseeker	Black Temple	25
+1654219813	EP	Malanda-Windseeker	Black Temple	25
+1654219813	EP	Voodoosniper-Windseeker	Black Temple	25
+1654219813	EP	Buddlite-Windseeker	Black Temple	25
+1654219813	EP	Blitzcore-Windseeker	Black Temple	25
+1654219813	EP	Abluepegasus-Windseeker	Black Temple	25
+1654219813	EP	Majila-Windseeker	Black Temple	25
+1654219813	EP	Bubblemeup-Windseeker	Black Temple	25
+1654219813	EP	Greybull-Windseeker	Black Temple	25
+1654219813	EP	Roand-Windseeker	Black Temple	25
+1654219813	EP	Apecharm-Windseeker	Black Temple	25
+1654219813	EP	Wazuwasol-Windseeker	Black Temple	25
+1654219813	EP	Knockhed-Windseeker	Black Temple	25
+1654219813	EP	Milkthedvein-Windseeker	Black Temple	25
+1654221613	EP	Bashuk-Windseeker	Black Temple	25
+1654221613	EP	Andrrick-Windseeker	Black Temple	25
+1654221613	EP	Ktulú-Windseeker	Black Temple	25
+1654221613	EP	Triisrawra-Windseeker	Black Temple	25
+1654221613	EP	Uddermadnèss-Windseeker	Black Temple	25
+1654221613	EP	Dotkilla-Windseeker	Black Temple	25
+1654221613	EP	Kilola-Windseeker	Black Temple	25
+1654221613	EP	Cuttah-Windseeker	Black Temple	25
+1654221613	EP	Deadliskye-Windseeker	Black Temple	25
+1654221613	EP	Hawkgobbler-Windseeker	Black Temple	25
+1654221613	EP	Maslun-Windseeker	Black Temple	25
+1654221613	EP	Gordantell-Windseeker	Black Temple	25
+1654221613	EP	Grudgelock-Windseeker	Black Temple	25
+1654221613	EP	Malanda-Windseeker	Black Temple	25
+1654221613	EP	Voodoosniper-Windseeker	Black Temple	25
+1654221613	EP	Buddlite-Windseeker	Black Temple	25
+1654221613	EP	Blitzcore-Windseeker	Black Temple	25
+1654221613	EP	Abluepegasus-Windseeker	Black Temple	25
+1654221613	EP	Majila-Windseeker	Black Temple	25
+1654221613	EP	Bubblemeup-Windseeker	Black Temple	25
+1654221613	EP	Greybull-Windseeker	Black Temple	25
+1654221613	EP	Roand-Windseeker	Black Temple	25
+1654221613	EP	Apecharm-Windseeker	Black Temple	25
+1654221613	EP	Wazuwasol-Windseeker	Black Temple	25
+1654221613	EP	Knockhed-Windseeker	Black Temple	25
+1654221613	EP	Milkthedvein-Windseeker	Black Temple	25
+1654470009	EP	Bashuk-Windseeker	Black Temple	25
+1654470009	EP	Ktulú-Windseeker	Black Temple	25
+1654470009	EP	Triisrawra-Windseeker	Black Temple	25
+1654470009	EP	Uddermadnèss-Windseeker	Black Temple	25
+1654470009	EP	Kilola-Windseeker	Black Temple	25
+1654470009	EP	Dotkilla-Windseeker	Black Temple	25
+1654470009	EP	Cuttah-Windseeker	Black Temple	25
+1654470009	EP	Deadliskye-Windseeker	Black Temple	25
+1654470009	EP	Maslun-Windseeker	Black Temple	25
+1654470009	EP	Gordantell-Windseeker	Black Temple	25
+1654470009	EP	Malanda-Windseeker	Black Temple	25
+1654470009	EP	Voodoosniper-Windseeker	Black Temple	25
+1654470009	EP	Buddlite-Windseeker	Black Temple	25
+1654470009	EP	Blitzcore-Windseeker	Black Temple	25
+1654470009	EP	Abluepegasus-Windseeker	Black Temple	25
+1654470009	EP	Majila-Windseeker	Black Temple	25
+1654470009	EP	Bubblemeup-Windseeker	Black Temple	25
+1654470009	EP	Candel-Windseeker	Black Temple	25
+1654470009	EP	Greybull-Windseeker	Black Temple	25
+1654470009	EP	Knockhed-Windseeker	Black Temple	25
+1654470009	EP	Milkthedvein-Windseeker	Black Temple	25
+1654471810	EP	Bashuk-Windseeker	Black Temple	25
+1654471810	EP	Andrrick-Windseeker	Black Temple	25
+1654471810	EP	Ktulú-Windseeker	Black Temple	25
+1654471810	EP	Triisrawra-Windseeker	Black Temple	25
+1654471810	EP	Uddermadnèss-Windseeker	Black Temple	25
+1654471810	EP	Kilola-Windseeker	Black Temple	25
+1654471810	EP	Dotkilla-Windseeker	Black Temple	25
+1654471810	EP	Cuttah-Windseeker	Black Temple	25
+1654471810	EP	Deadliskye-Windseeker	Black Temple	25
+1654471810	EP	Hawkgobbler-Windseeker	Black Temple	25
+1654471810	EP	Maslun-Windseeker	Black Temple	25
+1654471810	EP	Gordantell-Windseeker	Black Temple	25
+1654471810	EP	Malanda-Windseeker	Black Temple	25
+1654471810	EP	Voodoosniper-Windseeker	Black Temple	25
+1654471810	EP	Buddlite-Windseeker	Black Temple	25
+1654471810	EP	Blitzcore-Windseeker	Black Temple	25
+1654471810	EP	Abluepegasus-Windseeker	Black Temple	25
+1654471810	EP	Majila-Windseeker	Black Temple	25
+1654471810	EP	Bubblemeup-Windseeker	Black Temple	25
+1654471810	EP	Candel-Windseeker	Black Temple	25
+1654471810	EP	Greybull-Windseeker	Black Temple	25
+1654471810	EP	Wazuwasol-Windseeker	Black Temple	25
+1654471810	EP	Knockhed-Windseeker	Black Temple	25
+1654471810	EP	Milkthedvein-Windseeker	Black Temple	25
+1654473610	EP	Bashuk-Windseeker	Black Temple	25
+1654473610	EP	Andrrick-Windseeker	Black Temple	25
+1654473610	EP	Ktulú-Windseeker	Black Temple	25
+1654473610	EP	Kabbin-Windseeker	Black Temple	25
+1654473610	EP	Triisrawra-Windseeker	Black Temple	25
+1654473610	EP	Uddermadnèss-Windseeker	Black Temple	25
+1654473610	EP	Kilola-Windseeker	Black Temple	25
+1654473610	EP	Dotkilla-Windseeker	Black Temple	25
+1654473610	EP	Cuttah-Windseeker	Black Temple	25
+1654473610	EP	Deadliskye-Windseeker	Black Temple	25
+1654473610	EP	Hawkgobbler-Windseeker	Black Temple	25
+1654473610	EP	Maslun-Windseeker	Black Temple	25
+1654473610	EP	Gordantell-Windseeker	Black Temple	25
+1654473610	EP	Malanda-Windseeker	Black Temple	25
+1654473610	EP	Voodoosniper-Windseeker	Black Temple	25
+1654473610	EP	Buddlite-Windseeker	Black Temple	25
+1654473610	EP	Blitzcore-Windseeker	Black Temple	25
+1654473610	EP	Abluepegasus-Windseeker	Black Temple	25
+1654473610	EP	Majila-Windseeker	Black Temple	25
+1654473610	EP	Bubblemeup-Windseeker	Black Temple	25
+1654473610	EP	Candel-Windseeker	Black Temple	25
+1654473610	EP	Greybull-Windseeker	Black Temple	25
+1654473610	EP	Wazuwasol-Windseeker	Black Temple	25
+1654473610	EP	Milkthedvein-Windseeker	Black Temple	25
+1654475410	EP	Bashuk-Windseeker	Black Temple	25
+1654475410	EP	Andrrick-Windseeker	Black Temple	25
+1654475410	EP	Ktulú-Windseeker	Black Temple	25
+1654475410	EP	Kabbin-Windseeker	Black Temple	25
+1654475410	EP	Triisrawra-Windseeker	Black Temple	25
+1654475410	EP	Uddermadnèss-Windseeker	Black Temple	25
+1654475410	EP	Kilola-Windseeker	Black Temple	25
+1654475410	EP	Dotkilla-Windseeker	Black Temple	25
+1654475410	EP	Cuttah-Windseeker	Black Temple	25
+1654475410	EP	Deadliskye-Windseeker	Black Temple	25
+1654475410	EP	Hawkgobbler-Windseeker	Black Temple	25
+1654475410	EP	Maslun-Windseeker	Black Temple	25
+1654475410	EP	Gordantell-Windseeker	Black Temple	25
+1654475410	EP	Malanda-Windseeker	Black Temple	25
+1654475410	EP	Voodoosniper-Windseeker	Black Temple	25
+1654475410	EP	Buddlite-Windseeker	Black Temple	25
+1654475410	EP	Blitzcore-Windseeker	Black Temple	25
+1654475410	EP	Abluepegasus-Windseeker	Black Temple	25
+1654475410	EP	Majila-Windseeker	Black Temple	25
+1654475410	EP	Bubblemeup-Windseeker	Black Temple	25
+1654475410	EP	Candel-Windseeker	Black Temple	25
+1654475410	EP	Greybull-Windseeker	Black Temple	25
+1654475410	EP	Wazuwasol-Windseeker	Black Temple	25
+1654475410	EP	Milkthedvein-Windseeker	Black Temple	25
+1654476789	GP	Cuttah-Windseeker	[Cursed Vision of Sargeras]	653	|cffa335ee|Hitem:32235::::::::70:::::::::|h[Cursed Vision of Sargeras]|h|r
+1654476794	GP	Wazuwasol-Windseeker	[Chestguard of the Forgotten Conqueror]	500	|cffa335ee|Hitem:31089::::::::70:::::::::|h[Chestguard of the Forgotten Conqueror]|h|r
+1654476806	GP	Blitzcore-Windseeker	[Memento of Tyrande]	500	|cffa335ee|Hitem:32496::::::::70:::::::::|h[Memento of Tyrande]|h|r
