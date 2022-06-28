@@ -1,4 +1,4 @@
-#	timestamp	1656454566
+#	timestamp	1656456054
 #	version	v1.0
 #	addon	v1.6.4-tbc
 #	interface	20504
@@ -13,42 +13,42 @@
 #	outsiders	0
 
 #	roster	name,ep,gp,class
-Spirit-Windseeker	2681	3104	DRUID
+Spirit-Windseeker	2881	3104	DRUID
 Meehh-Windseeker	23	0	MAGE
 Timereaper-Windseeker	393	1178	WARLOCK
-Pachumm-Windseeker	820	2518	SHAMAN
-Abluepegasus-Windseeker	4953	4102	WARRIOR
-Maslun-Windseeker	4694	2954	SHAMAN
-Kilola-Windseeker	3173	2384	MAGE
-Grudgelock-Windseeker	2671	1701	WARLOCK
-Buddlite-Windseeker	4706	2794	PRIEST
-Dotkilla-Windseeker	4883	1924	WARLOCK
-Majila-Windseeker	5007	2933	PALADIN
-Quitelarge-Windseeker	795	2542	WARRIOR
-Kabbin-Windseeker	2648	751	WARRIOR
-Hawkgobbler-Windseeker	3257	1955	DRUID
-Uddermadnèss-Windseeker	4828	3019	HUNTER
-Apecharm-Windseeker	1850	3789	SHAMAN
-Deadliskye-Windseeker	4745	2289	WARLOCK
+Pachumm-Windseeker	920	2518	SHAMAN
+Abluepegasus-Windseeker	5153	4102	WARRIOR
+Maslun-Windseeker	4894	2954	SHAMAN
+Kilola-Windseeker	3373	2384	MAGE
+Grudgelock-Windseeker	2771	1701	WARLOCK
+Buddlite-Windseeker	4906	2794	PRIEST
+Dotkilla-Windseeker	5083	1924	WARLOCK
+Majila-Windseeker	5207	2933	PALADIN
+Quitelarge-Windseeker	895	2542	WARRIOR
+Kabbin-Windseeker	2748	751	WARRIOR
+Hawkgobbler-Windseeker	3457	1955	DRUID
+Uddermadnèss-Windseeker	5028	3019	HUNTER
+Apecharm-Windseeker	2050	3789	SHAMAN
+Deadliskye-Windseeker	4945	2289	WARLOCK
 Bêlch-Windseeker	241	237	PRIEST
-Andrrick-Windseeker	4465	1318	PALADIN
-Greybull-Windseeker	4405	3182	WARRIOR
+Andrrick-Windseeker	4565	1318	PALADIN
+Greybull-Windseeker	4605	3182	WARRIOR
 Smôte-Windseeker	21	0	PRIEST
-Triisrawra-Windseeker	4816	2133	DRUID
-Cuttah-Windseeker	4515	2566	ROGUE
-Wazuwasol-Windseeker	2015	3874	PRIEST
-Roand-Windseeker	3420	4318	WARRIOR
-Neidermeyer-Windseeker	4404	1441	PRIEST
+Triisrawra-Windseeker	5016	2133	DRUID
+Cuttah-Windseeker	4715	2566	ROGUE
+Wazuwasol-Windseeker	2115	3874	PRIEST
+Roand-Windseeker	3620	4318	WARRIOR
+Neidermeyer-Windseeker	4604	1441	PRIEST
 Knockhed-Windseeker	459	842	WARRIOR
 Greyghostt-Windseeker	215	0	HUNTER
-Ktulú-Windseeker	4398	2399	SHAMAN
-Gordantell-Windseeker	4613	2384	HUNTER
-Milkthedvein-Windseeker	1391	2352	DRUID
-Voodoosniper-Windseeker	4217	2456	HUNTER
+Ktulú-Windseeker	4598	2399	SHAMAN
+Gordantell-Windseeker	4713	2384	HUNTER
+Milkthedvein-Windseeker	1591	2352	DRUID
+Voodoosniper-Windseeker	4417	2456	HUNTER
 Clicki-Windseeker	2946	2059	SHAMAN
 Blitzcore-Windseeker	4236	3025	SHAMAN
-Bubblemeup-Windseeker	4665	3352	PALADIN
-Candel-Windseeker	3663	2761	PRIEST
+Bubblemeup-Windseeker	4865	3352	PALADIN
+Candel-Windseeker	3763	2761	PRIEST
 Malanda-Windseeker	2281	2210	WARLOCK
 
 #	log	timestamp,type,name,reason,value
@@ -2131,3 +2131,51 @@ Malanda-Windseeker	2281	2210	WARLOCK
 1656284514	EP	Milkthedvein-Windseeker	sunday	175
 1656284514	EP	Wazuwasol-Windseeker	sunday	175
 1656284514	EP	Timereaper-Windseeker	sunday	175
+1656455632	EP	Dotkilla-Windseeker	consumes	100
+1656455632	EP	Triisrawra-Windseeker	consumes	100
+1656455632	EP	Majila-Windseeker	consumes	100
+1656455632	EP	Abluepegasus-Windseeker	consumes	100
+1656455632	EP	Cuttah-Windseeker	consumes - Standby	100
+1656455632	EP	Buddlite-Windseeker	consumes - Standby	100
+1656455632	EP	Kilola-Windseeker	consumes - Standby	100
+1656455632	EP	Greybull-Windseeker	consumes - Standby	100
+1656455632	EP	Maslun-Windseeker	consumes - Standby	100
+1656455632	EP	Ktulú-Windseeker	consumes - Standby	100
+1656455632	EP	Hawkgobbler-Windseeker	consumes - Standby	100
+1656455632	EP	Apecharm-Windseeker	consumes - Standby	100
+1656455632	EP	Uddermadnèss-Windseeker	consumes - Standby	100
+1656455632	EP	Deadliskye-Windseeker	consumes - Standby	100
+1656455632	EP	Neidermeyer-Windseeker	consumes - Standby	100
+1656455632	EP	Wazuwasol-Windseeker	consumes - Standby	100
+1656455632	EP	Roand-Windseeker	consumes - Standby	100
+1656455632	EP	Milkthedvein-Windseeker	consumes - Standby	100
+1656455632	EP	Andrrick-Windseeker	consumes - Standby	100
+1656455632	EP	Spirit-Windseeker	consumes - Standby	100
+1656455632	EP	Voodoosniper-Windseeker	consumes - Standby	100
+1656455632	EP	Bubblemeup-Windseeker	consumes - Standby	100
+1656455778	EP	Dotkilla-Windseeker	consumes	100
+1656455778	EP	Triisrawra-Windseeker	consumes	100
+1656455778	EP	Majila-Windseeker	consumes	100
+1656455778	EP	Uddermadnèss-Windseeker	consumes	100
+1656455778	EP	Greybull-Windseeker	consumes	100
+1656455778	EP	Abluepegasus-Windseeker	consumes	100
+1656455778	EP	Cuttah-Windseeker	consumes - Standby	100
+1656455778	EP	Pachumm-Windseeker	consumes - Standby	100
+1656455778	EP	Voodoosniper-Windseeker	consumes - Standby	100
+1656455778	EP	Milkthedvein-Windseeker	consumes - Standby	100
+1656455778	EP	Maslun-Windseeker	consumes - Standby	100
+1656455778	EP	Grudgelock-Windseeker	consumes - Standby	100
+1656455778	EP	Kilola-Windseeker	consumes - Standby	100
+1656455778	EP	Ktulú-Windseeker	consumes - Standby	100
+1656455778	EP	Quitelarge-Windseeker	consumes - Standby	100
+1656455778	EP	Kabbin-Windseeker	consumes - Standby	100
+1656455778	EP	Bubblemeup-Windseeker	consumes - Standby	100
+1656455778	EP	Neidermeyer-Windseeker	consumes - Standby	100
+1656455778	EP	Candel-Windseeker	consumes - Standby	100
+1656455778	EP	Gordantell-Windseeker	consumes - Standby	100
+1656455778	EP	Roand-Windseeker	consumes - Standby	100
+1656455778	EP	Deadliskye-Windseeker	consumes - Standby	100
+1656455778	EP	Apecharm-Windseeker	consumes - Standby	100
+1656455778	EP	Spirit-Windseeker	consumes - Standby	100
+1656455778	EP	Hawkgobbler-Windseeker	consumes - Standby	100
+1656455778	EP	Buddlite-Windseeker	consumes - Standby	100
